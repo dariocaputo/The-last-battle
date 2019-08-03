@@ -1,0 +1,4041 @@
+# depslib dependency file v1.0
+1514140574 source:f:\documentos f\proyectos codeblocks\the last battle\main.cpp
+	<iostream>
+
+1541214278 source:f:\documentos f\proyectos codeblocks\the last battle\tropa.cpp
+	"Tropa.h"
+
+1541218998 f:\documentos f\proyectos codeblocks\the last battle\tropa.h
+	<string>
+
+1541217626 source:f:\documentos f\proyectos codeblocks\the last battle\contendiente.cpp
+	"Contendiente.h"
+
+1541219097 f:\documentos f\proyectos codeblocks\the last battle\contendiente.h
+	"Tropa.h"
+
+1541216732 source:f:\documentos f\proyectos codeblocks\the last battle\arquero.cpp
+	"Arquero.h"
+
+1541216628 f:\documentos f\proyectos codeblocks\the last battle\arquero.h
+	"Tropa.h"
+
+1541218307 source:f:\documentos f\proyectos codeblocks\the last battle\enano.cpp
+	"Enano.h"
+
+1541219097 f:\documentos f\proyectos codeblocks\the last battle\enano.h
+	"Tropa.h"
+
+1541218195 source:f:\documentos f\proyectos codeblocks\the last battle\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1541219097 f:\documentos f\proyectos codeblocks\the last battle\ninja.h
+	"Tropa.h"
+
+1541218387 source:f:\documentos f\proyectos codeblocks\the last battle\samurai.cpp
+	"Samurai.h"
+
+1541216462 f:\documentos f\proyectos codeblocks\the last battle\samurai.h
+	"Tropa.h"
+
+1541217626 source:f:\documentos f\proyectos codeblocks\the last battle2\contendiente.cpp
+	"Contendiente.h"
+
+1541219097 f:\documentos f\proyectos codeblocks\the last battle2\contendiente.h
+	"Tropa.h"
+
+1541275626 f:\documentos f\proyectos codeblocks\the last battle2\tropa.h
+	<string>
+
+1514140574 source:f:\documentos f\proyectos codeblocks\the last battle2\main.cpp
+	<iostream>
+
+1541218960 source:f:\documentos f\proyectos codeblocks\the last battle2\samurai.cpp
+	"Samurai.h"
+
+1541219107 f:\documentos f\proyectos codeblocks\the last battle2\samurai.h
+	"Tropa.h"
+
+1541276327 source:f:\documentos f\proyectos codeblocks\the last battle2\arquero.cpp
+	"Arquero.h"
+
+1541219113 f:\documentos f\proyectos codeblocks\the last battle2\arquero.h
+	"Tropa.h"
+
+1541259349 source:f:\documentos f\proyectos codeblocks\the last battle2\enano.cpp
+	"Enano.h"
+
+1541219097 f:\documentos f\proyectos codeblocks\the last battle2\enano.h
+	"Tropa.h"
+
+1541259510 source:f:\documentos f\proyectos codeblocks\the last battle2\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1541219097 f:\documentos f\proyectos codeblocks\the last battle2\ninja.h
+	"Tropa.h"
+
+1541261033 source:f:\documentos f\proyectos codeblocks\the last battle2\tropa.cpp
+	"Tropa.h"
+
+1541473293 source:f:\documentos f\proyectos codeblocks\the last battle2\juego.cpp
+	"Juego.h"
+
+1541284994 f:\documentos f\proyectos codeblocks\the last battle2\juego.h
+	"Jugador.h"
+	<iostream>
+	<Windows.h>
+	"ListaSE.h"
+	"Ninja.h"
+	"Enano.h"
+	"Contendiente.h"
+	"Arquero.h"
+	"Samurai.h"
+
+1541279837 source:f:\documentos f\proyectos codeblocks\the last battle2\jugador.cpp
+	"Jugador.h"
+
+1541281016 f:\documentos f\proyectos codeblocks\the last battle2\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+
+1507152582 f:\documentos f\proyectos codeblocks\the last battle2\listase.h
+	"Cursor.h"
+
+1539172426 f:\documentos f\proyectos codeblocks\the last battle2\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 f:\documentos f\proyectos codeblocks\the last battle2\nodos.h
+
+1541276327 source:c:\users\darío\desktop\the last battle3\arquero.cpp
+	"Arquero.h"
+
+1541219113 c:\users\darío\desktop\the last battle3\arquero.h
+	"Tropa.h"
+
+1541275626 c:\users\darío\desktop\the last battle3\tropa.h
+	<string>
+
+1541217626 source:c:\users\darío\desktop\the last battle3\contendiente.cpp
+	"Contendiente.h"
+
+1541219097 c:\users\darío\desktop\the last battle3\contendiente.h
+	"Tropa.h"
+
+1541259349 source:c:\users\darío\desktop\the last battle3\enano.cpp
+	"Enano.h"
+
+1541219097 c:\users\darío\desktop\the last battle3\enano.h
+	"Tropa.h"
+
+1541552630 source:c:\users\darío\desktop\the last battle3\main.cpp
+	<iostream>
+
+1541259510 source:c:\users\darío\desktop\the last battle3\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1541219097 c:\users\darío\desktop\the last battle3\ninja.h
+	"Tropa.h"
+
+1541218960 source:c:\users\darío\desktop\the last battle3\samurai.cpp
+	"Samurai.h"
+
+1541219107 c:\users\darío\desktop\the last battle3\samurai.h
+	"Tropa.h"
+
+1541261033 source:c:\users\darío\desktop\the last battle3\tropa.cpp
+	"Tropa.h"
+
+1541552618 source:c:\users\darío\desktop\the last battle3\juego.cpp
+	"Juego.h"
+
+1541552443 c:\users\darío\desktop\the last battle3\juego.h
+	"Jugador.h"
+	<iostream>
+	"ListaSE.h"
+
+1541552443 c:\users\darío\desktop\the last battle3\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Ninja.h"
+	"Enano.h"
+	"Contendiente.h"
+	"Arquero.h"
+	"Samurai.h"
+	<iostream>
+	<Windows.h>
+
+1507152582 c:\users\darío\desktop\the last battle3\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\darío\desktop\the last battle3\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\darío\desktop\the last battle3\nodos.h
+
+1541552584 source:c:\users\darío\desktop\the last battle3\jugador.cpp
+	"Jugador.h"
+
+1541963052 source:f:\documentos f\proyectos codeblocks\the last battle3\arquero.cpp
+	"Arquero.h"
+
+1541963075 f:\documentos f\proyectos codeblocks\the last battle3\arquero.h
+	"Tropa.h"
+	"ListaSE.h"
+
+1541963032 f:\documentos f\proyectos codeblocks\the last battle3\tropa.h
+	<string>
+
+1541963075 source:f:\documentos f\proyectos codeblocks\the last battle3\contendiente.cpp
+	"Contendiente.h"
+
+1541963082 f:\documentos f\proyectos codeblocks\the last battle3\contendiente.h
+	"Tropa.h"
+
+1541963093 source:f:\documentos f\proyectos codeblocks\the last battle3\enano.cpp
+	"Enano.h"
+
+1541963093 f:\documentos f\proyectos codeblocks\the last battle3\enano.h
+	"Tropa.h"
+
+1541968886 source:f:\documentos f\proyectos codeblocks\the last battle3\juego.cpp
+	"Juego.h"
+
+1541973993 f:\documentos f\proyectos codeblocks\the last battle3\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1541972110 f:\documentos f\proyectos codeblocks\the last battle3\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Ninja.h"
+	"Enano.h"
+	"Contendiente.h"
+	"Arquero.h"
+	"Samurai.h"
+	<time.h>
+	<iostream>
+	<Windows.h>
+
+1507152582 f:\documentos f\proyectos codeblocks\the last battle3\listase.h
+	"Cursor.h"
+
+1539172426 f:\documentos f\proyectos codeblocks\the last battle3\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 f:\documentos f\proyectos codeblocks\the last battle3\nodos.h
+
+1541963110 f:\documentos f\proyectos codeblocks\the last battle3\ninja.h
+	"Tropa.h"
+
+1541963123 f:\documentos f\proyectos codeblocks\the last battle3\samurai.h
+	"Tropa.h"
+
+1541963110 source:f:\documentos f\proyectos codeblocks\the last battle3\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1541963110 source:f:\documentos f\proyectos codeblocks\the last battle3\samurai.cpp
+	"Samurai.h"
+
+1541962264 source:f:\documentos f\proyectos codeblocks\the last battle3\tropa.cpp
+	"Tropa.h"
+
+1541863178 source:f:\documentos f\proyectos codeblocks\the last battle3\main.cpp
+	<iostream>
+	"Juego.h"
+
+1541972110 source:f:\documentos f\proyectos codeblocks\the last battle3\jugador.cpp
+	"Jugador.h"
+
+1541972341 source:f:\documentos f\proyectos codeblocks\the last battle3\tablero.cpp
+	"Tablero.h"
+	<time.h>
+
+1541972332 f:\documentos f\proyectos codeblocks\the last battle3\tablero.h
+	"ListaSE.h"
+	"Casillero.h"
+	<iostream>
+
+1541958307 source:f:\documentos f\proyectos codeblocks\the last battle3\casillero.cpp
+	"Casillero.h"
+
+1541958220 f:\documentos f\proyectos codeblocks\the last battle3\casillero.h
+	"Tropa.h"
+
+1541963054 source:c:\users\dario\documents\codeblocks\the last battle3\arquero.cpp
+	"Arquero.h"
+
+1541963076 c:\users\dario\documents\codeblocks\the last battle3\arquero.h
+	"Tropa.h"
+	"ListaSE.h"
+
+1541963034 c:\users\dario\documents\codeblocks\the last battle3\tropa.h
+	<string>
+
+1507152582 c:\users\dario\documents\codeblocks\the last battle3\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\documents\codeblocks\the last battle3\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\documents\codeblocks\the last battle3\nodos.h
+
+1541958308 source:c:\users\dario\documents\codeblocks\the last battle3\casillero.cpp
+	"Casillero.h"
+
+1541958222 c:\users\dario\documents\codeblocks\the last battle3\casillero.h
+	"Tropa.h"
+
+1541963076 source:c:\users\dario\documents\codeblocks\the last battle3\contendiente.cpp
+	"Contendiente.h"
+
+1541963084 c:\users\dario\documents\codeblocks\the last battle3\contendiente.h
+	"Tropa.h"
+
+1541963094 source:c:\users\dario\documents\codeblocks\the last battle3\enano.cpp
+	"Enano.h"
+
+1541963094 c:\users\dario\documents\codeblocks\the last battle3\enano.h
+	"Tropa.h"
+
+1542201881 source:c:\users\dario\documents\codeblocks\the last battle3\jugador.cpp
+	"Jugador.h"
+
+1542164930 c:\users\dario\documents\codeblocks\the last battle3\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Ninja.h"
+	"Enano.h"
+	"Contendiente.h"
+	"Arquero.h"
+	"Samurai.h"
+	<time.h>
+	<iostream>
+	<Windows.h>
+
+1541963112 c:\users\dario\documents\codeblocks\the last battle3\ninja.h
+	"Tropa.h"
+
+1541963124 c:\users\dario\documents\codeblocks\the last battle3\samurai.h
+	"Tropa.h"
+
+1541863180 source:c:\users\dario\documents\codeblocks\the last battle3\main.cpp
+	<iostream>
+	"Juego.h"
+
+1542202846 c:\users\dario\documents\codeblocks\the last battle3\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1542203187 c:\users\dario\documents\codeblocks\the last battle3\tablero.h
+	"Jugador.h"
+	"ListaSE.h"
+	"Casillero.h"
+	<iostream>
+
+1541963112 source:c:\users\dario\documents\codeblocks\the last battle3\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1541963112 source:c:\users\dario\documents\codeblocks\the last battle3\samurai.cpp
+	"Samurai.h"
+
+1542202975 source:c:\users\dario\documents\codeblocks\the last battle3\tablero.cpp
+	"Tablero.h"
+	<time.h>
+
+1541962266 source:c:\users\dario\documents\codeblocks\the last battle3\tropa.cpp
+	"Tropa.h"
+
+1542203261 source:c:\users\dario\documents\codeblocks\the last battle3\juego.cpp
+	"Juego.h"
+
+1541963076 source:c:\users\dario\documents\codeblocks\the last battle 5\contendiente.cpp
+	"Contendiente.h"
+
+1541963084 c:\users\dario\documents\codeblocks\the last battle 5\contendiente.h
+	"Tropa.h"
+
+1542330586 c:\users\dario\documents\codeblocks\the last battle 5\tropa.h
+	<string>
+	"Casillero.h"
+
+1541963094 source:c:\users\dario\documents\codeblocks\the last battle 5\enano.cpp
+	"Enano.h"
+
+1541963094 c:\users\dario\documents\codeblocks\the last battle 5\enano.h
+	"Tropa.h"
+
+1541863180 source:c:\users\dario\documents\codeblocks\the last battle 5\main.cpp
+	<iostream>
+	"Juego.h"
+
+1542214876 c:\users\dario\documents\codeblocks\the last battle 5\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1542320092 c:\users\dario\documents\codeblocks\the last battle 5\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	<time.h>
+	<iostream>
+	<Windows.h>
+
+1507152582 c:\users\dario\documents\codeblocks\the last battle 5\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\documents\codeblocks\the last battle 5\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\documents\codeblocks\the last battle 5\nodos.h
+
+1541963112 c:\users\dario\documents\codeblocks\the last battle 5\ninja.h
+	"Tropa.h"
+
+1542403920 c:\users\dario\documents\codeblocks\the last battle 5\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+	"ListaSE.h"
+
+1541963124 c:\users\dario\documents\codeblocks\the last battle 5\samurai.h
+	"Tropa.h"
+
+1542301166 c:\users\dario\documents\codeblocks\the last battle 5\tablero.h
+	"Jugador.h"
+	"ListaSE.h"
+	"Casillero.h"
+	<iostream>
+
+1542329035 c:\users\dario\documents\codeblocks\the last battle 5\casillero.h
+	"Tropa.h"
+
+1541963112 source:c:\users\dario\documents\codeblocks\the last battle 5\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1541963112 source:c:\users\dario\documents\codeblocks\the last battle 5\samurai.cpp
+	"Samurai.h"
+
+1541962266 source:c:\users\dario\documents\codeblocks\the last battle 5\tropa.cpp
+	"Tropa.h"
+
+1542300949 source:c:\users\dario\documents\codeblocks\the last battle 5\casillero.cpp
+	"Casillero.h"
+
+1542399603 source:c:\users\dario\documents\codeblocks\the last battle 5\juego.cpp
+	"Juego.h"
+
+1542399282 source:c:\users\dario\documents\codeblocks\the last battle 5\arquero.cpp
+	"Arquero.h"
+
+1542340501 source:c:\users\dario\documents\codeblocks\the last battle 5\tablero.cpp
+	"Tablero.h"
+
+1542320491 source:c:\users\dario\documents\codeblocks\the last battle 5\jugador.cpp
+	"Jugador.h"
+
+1542300949 source:c:\users\dario\documents\codeblocks\the last battle 5 falla\casillero.cpp
+	"Casillero.h"
+
+1542329035 c:\users\dario\documents\codeblocks\the last battle 5 falla\casillero.h
+	"Tropa.h"
+
+1542329023 c:\users\dario\documents\codeblocks\the last battle 5 falla\tropa.h
+	<string>
+	"Casillero.h"
+
+1542329428 source:c:\users\dario\documents\codeblocks\the last battle 5 falla\juego.cpp
+	"Juego.h"
+
+1542214876 c:\users\dario\documents\codeblocks\the last battle 5 falla\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1542320092 c:\users\dario\documents\codeblocks\the last battle 5 falla\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	<time.h>
+	<iostream>
+	<Windows.h>
+
+1507152582 c:\users\dario\documents\codeblocks\the last battle 5 falla\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\documents\codeblocks\the last battle 5 falla\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\documents\codeblocks\the last battle 5 falla\nodos.h
+
+1542329077 c:\users\dario\documents\codeblocks\the last battle 5 falla\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+	"ListaSE.h"
+
+1542301166 c:\users\dario\documents\codeblocks\the last battle 5 falla\tablero.h
+	"Jugador.h"
+	"ListaSE.h"
+	"Casillero.h"
+	<iostream>
+
+1542320491 source:c:\users\dario\documents\codeblocks\the last battle 5 falla\jugador.cpp
+	"Jugador.h"
+
+1541863180 source:c:\users\dario\documents\codeblocks\the last battle 5 falla\main.cpp
+	<iostream>
+	"Juego.h"
+
+1542329360 source:c:\users\dario\documents\codeblocks\the last battle 5 falla\tablero.cpp
+	"Tablero.h"
+
+1541962266 source:c:\users\dario\documents\codeblocks\the last battle 5 falla\tropa.cpp
+	"Tropa.h"
+
+1542329035 source:c:\users\dario\documents\codeblocks\the last battle 5 falla\arquero.cpp
+	"Arquero.h"
+
+1542300949 source:c:\users\dario\documents\codeblocks\the last battle 6\casillero.cpp
+	"Casillero.h"
+
+1542329035 c:\users\dario\documents\codeblocks\the last battle 6\casillero.h
+	"Tropa.h"
+
+1542469118 c:\users\dario\documents\codeblocks\the last battle 6\tropa.h
+	<string>
+	"Casillero.h"
+	"ListaSE.h"
+
+1541863180 source:c:\users\dario\documents\codeblocks\the last battle 6\main.cpp
+	<iostream>
+	"Juego.h"
+
+1542413272 c:\users\dario\documents\codeblocks\the last battle 6\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1542474663 c:\users\dario\documents\codeblocks\the last battle 6\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	<time.h>
+	<iostream>
+	<Windows.h>
+
+1507152582 c:\users\dario\documents\codeblocks\the last battle 6\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\documents\codeblocks\the last battle 6\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\documents\codeblocks\the last battle 6\nodos.h
+
+1542418867 c:\users\dario\documents\codeblocks\the last battle 6\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1542420293 c:\users\dario\documents\codeblocks\the last battle 6\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	<iostream>
+
+1542480794 source:c:\users\dario\documents\codeblocks\the last battle 6\tablero.cpp
+	"Tablero.h"
+
+1542480578 source:c:\users\dario\documents\codeblocks\the last battle 6\arquero.cpp
+	"Arquero.h"
+
+1542483968 source:c:\users\dario\documents\codeblocks\the last battle 6\juego.cpp
+	"Juego.h"
+
+1542474818 source:c:\users\dario\documents\codeblocks\the last battle 6\jugador.cpp
+	"Jugador.h"
+
+1542469158 source:c:\users\dario\documents\codeblocks\the last battle 6\tropa.cpp
+	"Tropa.h"
+
+1542300949 source:c:\users\dario\documents\codeblocks\the last battle 8\casillero.cpp
+	"Casillero.h"
+
+1542329035 c:\users\dario\documents\codeblocks\the last battle 8\casillero.h
+	"Tropa.h"
+
+1542585175 c:\users\dario\documents\codeblocks\the last battle 8\tropa.h
+	<string>
+	"Casillero.h"
+	"ListaSE.h"
+
+1507152582 c:\users\dario\documents\codeblocks\the last battle 8\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\documents\codeblocks\the last battle 8\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\documents\codeblocks\the last battle 8\nodos.h
+
+1542499150 source:c:\users\dario\documents\codeblocks\the last battle 8\juego.cpp
+	"Juego.h"
+
+1542413272 c:\users\dario\documents\codeblocks\the last battle 8\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1542474663 c:\users\dario\documents\codeblocks\the last battle 8\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	<time.h>
+	<iostream>
+	<Windows.h>
+
+1542584769 c:\users\dario\documents\codeblocks\the last battle 8\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1542420293 c:\users\dario\documents\codeblocks\the last battle 8\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	<iostream>
+
+1542474818 source:c:\users\dario\documents\codeblocks\the last battle 8\jugador.cpp
+	"Jugador.h"
+
+1541863180 source:c:\users\dario\documents\codeblocks\the last battle 8\main.cpp
+	<iostream>
+	"Juego.h"
+
+1542499194 source:c:\users\dario\documents\codeblocks\the last battle 8\tablero.cpp
+	"Tablero.h"
+
+1542469158 source:c:\users\dario\documents\codeblocks\the last battle 8\tropa.cpp
+	"Tropa.h"
+
+1542588326 source:c:\users\dario\documents\codeblocks\the last battle 8\arquero.cpp
+	"Arquero.h"
+
+1542300949 source:c:\users\dario\documents\codeblocks\the last battle 9\casillero.cpp
+	"Casillero.h"
+
+1542329035 c:\users\dario\documents\codeblocks\the last battle 9\casillero.h
+	"Tropa.h"
+
+1542742228 c:\users\dario\documents\codeblocks\the last battle 9\tropa.h
+	<string>
+	"Casillero.h"
+	"ListaSE.h"
+
+1507152582 c:\users\dario\documents\codeblocks\the last battle 9\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\documents\codeblocks\the last battle 9\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\documents\codeblocks\the last battle 9\nodos.h
+
+1541863180 source:c:\users\dario\documents\codeblocks\the last battle 9\main.cpp
+	<iostream>
+	"Juego.h"
+
+1542413272 c:\users\dario\documents\codeblocks\the last battle 9\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1542474663 c:\users\dario\documents\codeblocks\the last battle 9\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	<time.h>
+	<iostream>
+	<Windows.h>
+
+1542737030 c:\users\dario\documents\codeblocks\the last battle 9\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1542747078 c:\users\dario\documents\codeblocks\the last battle 9\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	<iostream>
+
+1542469158 source:c:\users\dario\documents\codeblocks\the last battle 9\tropa.cpp
+	"Tropa.h"
+
+1542748280 source:c:\users\dario\documents\codeblocks\the last battle 9\juego.cpp
+	"Juego.h"
+
+1542743183 source:c:\users\dario\documents\codeblocks\the last battle 9\arquero.cpp
+	"Arquero.h"
+
+1542720701 source:c:\users\dario\documents\codeblocks\the last battle 9\jugador.cpp
+	"Jugador.h"
+
+1542747992 source:c:\users\dario\documents\codeblocks\the last battle 9\tablero.cpp
+	"Tablero.h"
+
+1542300949 source:c:\users\dario\documents\codeblocks\the last battle 10\casillero.cpp
+	"Casillero.h"
+
+1542329035 c:\users\dario\documents\codeblocks\the last battle 10\casillero.h
+	"Tropa.h"
+
+1542742228 c:\users\dario\documents\codeblocks\the last battle 10\tropa.h
+	<string>
+	"Casillero.h"
+	"ListaSE.h"
+
+1507152582 c:\users\dario\documents\codeblocks\the last battle 10\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\documents\codeblocks\the last battle 10\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\documents\codeblocks\the last battle 10\nodos.h
+
+1542720701 source:c:\users\dario\documents\codeblocks\the last battle 10\jugador.cpp
+	"Jugador.h"
+
+1542474663 c:\users\dario\documents\codeblocks\the last battle 10\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	<time.h>
+	<iostream>
+	<Windows.h>
+
+1542737030 c:\users\dario\documents\codeblocks\the last battle 10\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1541863180 source:c:\users\dario\documents\codeblocks\the last battle 10\main.cpp
+	<iostream>
+	"Juego.h"
+
+1542413272 c:\users\dario\documents\codeblocks\the last battle 10\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1542756388 c:\users\dario\documents\codeblocks\the last battle 10\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	<iostream>
+
+1542469158 source:c:\users\dario\documents\codeblocks\the last battle 10\tropa.cpp
+	"Tropa.h"
+
+1542816073 source:c:\users\dario\documents\codeblocks\the last battle 10\juego.cpp
+	"Juego.h"
+
+1542806593 source:c:\users\dario\documents\codeblocks\the last battle 10\arquero.cpp
+	"Arquero.h"
+
+1542817418 source:c:\users\dario\documents\codeblocks\the last battle 10\tablero.cpp
+	"Tablero.h"
+
+1542300949 source:c:\users\dario\documents\codeblocks\the last battle 10 funciona!!\casillero.cpp
+	"Casillero.h"
+
+1542329035 c:\users\dario\documents\codeblocks\the last battle 10 funciona!!\casillero.h
+	"Tropa.h"
+
+1542742228 c:\users\dario\documents\codeblocks\the last battle 10 funciona!!\tropa.h
+	<string>
+	"Casillero.h"
+	"ListaSE.h"
+
+1507152582 c:\users\dario\documents\codeblocks\the last battle 10 funciona!!\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\documents\codeblocks\the last battle 10 funciona!!\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\documents\codeblocks\the last battle 10 funciona!!\nodos.h
+
+1542816073 source:c:\users\dario\documents\codeblocks\the last battle 10 funciona!!\juego.cpp
+	"Juego.h"
+
+1542413272 c:\users\dario\documents\codeblocks\the last battle 10 funciona!!\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1542474663 c:\users\dario\documents\codeblocks\the last battle 10 funciona!!\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	<time.h>
+	<iostream>
+	<Windows.h>
+
+1542737030 c:\users\dario\documents\codeblocks\the last battle 10 funciona!!\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1542756388 c:\users\dario\documents\codeblocks\the last battle 10 funciona!!\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	<iostream>
+
+1542720701 source:c:\users\dario\documents\codeblocks\the last battle 10 funciona!!\jugador.cpp
+	"Jugador.h"
+
+1541863180 source:c:\users\dario\documents\codeblocks\the last battle 10 funciona!!\main.cpp
+	<iostream>
+	"Juego.h"
+
+1542469158 source:c:\users\dario\documents\codeblocks\the last battle 10 funciona!!\tropa.cpp
+	"Tropa.h"
+
+1542844357 source:c:\users\dario\documents\codeblocks\the last battle 11\arquero.cpp
+	"Arquero.h"
+
+1542737030 c:\users\dario\documents\codeblocks\the last battle 11\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1542827091 c:\users\dario\documents\codeblocks\the last battle 11\tropa.h
+	<string>
+	"Casillero.h"
+	"ListaSE.h"
+
+1542329035 c:\users\dario\documents\codeblocks\the last battle 11\casillero.h
+	"Tropa.h"
+
+1507152582 c:\users\dario\documents\codeblocks\the last battle 11\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\documents\codeblocks\the last battle 11\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\documents\codeblocks\the last battle 11\nodos.h
+
+1542300949 source:c:\users\dario\documents\codeblocks\the last battle 11\casillero.cpp
+	"Casillero.h"
+
+1542720701 source:c:\users\dario\documents\codeblocks\the last battle 11\jugador.cpp
+	"Jugador.h"
+
+1542474663 c:\users\dario\documents\codeblocks\the last battle 11\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	<time.h>
+	<iostream>
+	<Windows.h>
+
+1541863180 source:c:\users\dario\documents\codeblocks\the last battle 11\main.cpp
+	<iostream>
+	"Juego.h"
+
+1542413272 c:\users\dario\documents\codeblocks\the last battle 11\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1542899062 c:\users\dario\documents\codeblocks\the last battle 11\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	<iostream>
+
+1542850504 source:c:\users\dario\documents\codeblocks\the last battle 11\tropa.cpp
+	"Tropa.h"
+
+1542851154 source:c:\users\dario\documents\codeblocks\the last battle 11\juego.cpp
+	"Juego.h"
+
+1542900383 source:c:\users\dario\documents\codeblocks\the last battle 11\tablero.cpp
+	"Tablero.h"
+
+1542913675 source:c:\users\dario\documents\codeblocks\the last battle 12\casillero.cpp
+	"Casillero.h"
+
+1542913583 c:\users\dario\documents\codeblocks\the last battle 12\casillero.h
+	"Tropa.h"
+
+1542917254 c:\users\dario\documents\codeblocks\the last battle 12\tropa.h
+	<string>
+	"Casillero.h"
+	"ListaSE.h"
+
+1507152582 c:\users\dario\documents\codeblocks\the last battle 12\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\documents\codeblocks\the last battle 12\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\documents\codeblocks\the last battle 12\nodos.h
+
+1542924309 source:c:\users\dario\documents\codeblocks\the last battle 12\juego.cpp
+	"Juego.h"
+
+1542413272 c:\users\dario\documents\codeblocks\the last battle 12\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1542474663 c:\users\dario\documents\codeblocks\the last battle 12\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	<time.h>
+	<iostream>
+	<Windows.h>
+
+1542924398 c:\users\dario\documents\codeblocks\the last battle 12\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1542923730 c:\users\dario\documents\codeblocks\the last battle 12\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	<iostream>
+
+1542720701 source:c:\users\dario\documents\codeblocks\the last battle 12\jugador.cpp
+	"Jugador.h"
+
+1541863180 source:c:\users\dario\documents\codeblocks\the last battle 12\main.cpp
+	<iostream>
+	"Juego.h"
+
+1542917239 source:c:\users\dario\documents\codeblocks\the last battle 12\tropa.cpp
+	"Tropa.h"
+
+1542924233 source:c:\users\dario\documents\codeblocks\the last battle 12\tablero.cpp
+	"Tablero.h"
+
+1542917492 source:c:\users\dario\documents\codeblocks\the last battle 12\arquero.cpp
+	"Arquero.h"
+
+1541863180 source:c:\users\dario\documents\codeblocks\the last battle 13\main.cpp
+	<iostream>
+	"Juego.h"
+
+1542929045 c:\users\dario\documents\codeblocks\the last battle 13\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1542929995 c:\users\dario\documents\codeblocks\the last battle 13\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	<time.h>
+	<iostream>
+	<Windows.h>
+
+1542929277 c:\users\dario\documents\codeblocks\the last battle 13\tropa.h
+	<string>
+	"Casillero.h"
+	"ListaSE.h"
+
+1542929473 c:\users\dario\documents\codeblocks\the last battle 13\casillero.h
+	"Tropa.h"
+
+1507152582 c:\users\dario\documents\codeblocks\the last battle 13\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\documents\codeblocks\the last battle 13\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\documents\codeblocks\the last battle 13\nodos.h
+
+1542928940 c:\users\dario\documents\codeblocks\the last battle 13\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1542929831 c:\users\dario\documents\codeblocks\the last battle 13\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	<iostream>
+
+1542929917 source:c:\users\dario\documents\codeblocks\the last battle 13\casillero.cpp
+	"Casillero.h"
+
+1542929965 source:c:\users\dario\documents\codeblocks\the last battle 13\arquero.cpp
+	"Arquero.h"
+
+1542935577 source:c:\users\dario\documents\codeblocks\the last battle 13\juego.cpp
+	"Juego.h"
+
+1542929211 source:c:\users\dario\documents\codeblocks\the last battle 13\jugador.cpp
+	"Jugador.h"
+
+1542929264 source:c:\users\dario\documents\codeblocks\the last battle 13\tropa.cpp
+	"Tropa.h"
+
+1542930220 source:c:\users\dario\documents\codeblocks\the last battle 13\tablero.cpp
+	"Tablero.h"
+
+1542929965 source:c:\users\dario\documents\codeblocks\the last battle 14\arquero.cpp
+	"Arquero.h"
+
+1542928940 c:\users\dario\documents\codeblocks\the last battle 14\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1542929277 c:\users\dario\documents\codeblocks\the last battle 14\tropa.h
+	<string>
+	"Casillero.h"
+	"ListaSE.h"
+
+1542929473 c:\users\dario\documents\codeblocks\the last battle 14\casillero.h
+	"Tropa.h"
+
+1507152582 c:\users\dario\documents\codeblocks\the last battle 14\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\documents\codeblocks\the last battle 14\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\documents\codeblocks\the last battle 14\nodos.h
+
+1542929917 source:c:\users\dario\documents\codeblocks\the last battle 14\casillero.cpp
+	"Casillero.h"
+
+1542929211 source:c:\users\dario\documents\codeblocks\the last battle 14\jugador.cpp
+	"Jugador.h"
+
+1542929995 c:\users\dario\documents\codeblocks\the last battle 14\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	<time.h>
+	<iostream>
+	<Windows.h>
+
+1541863180 source:c:\users\dario\documents\codeblocks\the last battle 14\main.cpp
+	<iostream>
+	"Juego.h"
+
+1542929045 c:\users\dario\documents\codeblocks\the last battle 14\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1542937063 c:\users\dario\documents\codeblocks\the last battle 14\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	<iostream>
+
+1542929264 source:c:\users\dario\documents\codeblocks\the last battle 14\tropa.cpp
+	"Tropa.h"
+
+1542936803 source:c:\users\dario\documents\codeblocks\the last battle 14\juego.cpp
+	"Juego.h"
+
+1542936609 source:c:\users\dario\documents\codeblocks\the last battle 14\tablero.cpp
+	"Tablero.h"
+
+1543024664 source:c:\users\dario\documents\codeblocks\the last battle 15\arquero.cpp
+	"Arquero.h"
+
+1543025309 c:\users\dario\documents\codeblocks\the last battle 15\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1543070515 c:\users\dario\documents\codeblocks\the last battle 15\tropa.h
+	<string>
+	"Casillero.h"
+	"ListaSE.h"
+
+1542929473 c:\users\dario\documents\codeblocks\the last battle 15\casillero.h
+	"Tropa.h"
+
+1507152582 c:\users\dario\documents\codeblocks\the last battle 15\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\documents\codeblocks\the last battle 15\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\documents\codeblocks\the last battle 15\nodos.h
+
+1542929917 source:c:\users\dario\documents\codeblocks\the last battle 15\casillero.cpp
+	"Casillero.h"
+
+1543024911 source:c:\users\dario\documents\codeblocks\the last battle 15\contendiente.cpp
+	"Contendiente.h"
+
+1543025309 c:\users\dario\documents\codeblocks\the last battle 15\contendiente.h
+	"Tropa.h"
+
+1543024872 source:c:\users\dario\documents\codeblocks\the last battle 15\enano.cpp
+	"Enano.h"
+
+1543025309 c:\users\dario\documents\codeblocks\the last battle 15\enano.h
+	"Tropa.h"
+
+1543064783 source:c:\users\dario\documents\codeblocks\the last battle 15\juego.cpp
+	"Juego.h"
+
+1542929045 c:\users\dario\documents\codeblocks\the last battle 15\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1542984168 c:\users\dario\documents\codeblocks\the last battle 15\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<iostream>
+	<Windows.h>
+
+1543025981 c:\users\dario\documents\codeblocks\the last battle 15\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	<iostream>
+
+1542996567 source:c:\users\dario\documents\codeblocks\the last battle 15\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543024937 source:c:\users\dario\documents\codeblocks\the last battle 15\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543025309 c:\users\dario\documents\codeblocks\the last battle 15\ninja.h
+	"Tropa.h"
+
+1543024979 source:c:\users\dario\documents\codeblocks\the last battle 15\samurai.cpp
+	"Samurai.h"
+
+1543025447 c:\users\dario\documents\codeblocks\the last battle 15\samurai.h
+	"Tropa.h"
+
+1543071839 source:c:\users\dario\documents\codeblocks\the last battle 15\tropa.cpp
+	"Tropa.h"
+
+1542985475 source:c:\users\dario\documents\codeblocks\the last battle 15\jugador.cpp
+	"Jugador.h"
+
+1543071857 source:c:\users\dario\documents\codeblocks\the last battle 15\tablero.cpp
+	"Tablero.h"
+
+1320935140 c:\users\dario\documents\codeblocks\the last battle 15\miniwin.h
+	<iostream>
+
+1320935140 source:c:\users\dario\documents\codeblocks\the last battle 15\miniwin.cpp
+	<fstream>
+	<sstream>
+	<queue>
+	<math.h>
+	<process.h>
+	<windows.h>
+	<windowsx.h>
+	"miniwin.h"
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+	<queue>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xos.h>
+	<X11/Xatom.h>
+	<X11/keysym.h>
+	"miniwin.h"
+
+1543091406 source:c:\users\dario\onedrive\desktop\the last battle 16\arquero.cpp
+	"Arquero.h"
+
+1543091501 c:\users\dario\onedrive\desktop\the last battle 16\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1543086217 c:\users\dario\onedrive\desktop\the last battle 16\tropa.h
+	<string>
+	"Coordenada.h"
+	"ListaSE.h"
+
+1543085865 c:\users\dario\onedrive\desktop\the last battle 16\casillero.h
+	"Tropa.h"
+
+1507152582 c:\users\dario\onedrive\desktop\the last battle 16\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\onedrive\desktop\the last battle 16\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\onedrive\desktop\the last battle 16\nodos.h
+
+1542929917 source:c:\users\dario\onedrive\desktop\the last battle 16\casillero.cpp
+	"Casillero.h"
+
+1543091960 source:c:\users\dario\onedrive\desktop\the last battle 16\contendiente.cpp
+	"Contendiente.h"
+
+1543091948 c:\users\dario\onedrive\desktop\the last battle 16\contendiente.h
+	"Tropa.h"
+
+1543091811 source:c:\users\dario\onedrive\desktop\the last battle 16\enano.cpp
+	"Enano.h"
+
+1543091702 c:\users\dario\onedrive\desktop\the last battle 16\enano.h
+	"Tropa.h"
+
+1543077898 source:c:\users\dario\onedrive\desktop\the last battle 16\juego.cpp
+	"Juego.h"
+
+1542929045 c:\users\dario\onedrive\desktop\the last battle 16\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1542984168 c:\users\dario\onedrive\desktop\the last battle 16\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<iostream>
+	<Windows.h>
+
+1543091759 c:\users\dario\onedrive\desktop\the last battle 16\ninja.h
+	"Tropa.h"
+
+1543091759 c:\users\dario\onedrive\desktop\the last battle 16\samurai.h
+	"Tropa.h"
+
+1543092189 c:\users\dario\onedrive\desktop\the last battle 16\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	"Coordenada.h"
+	<iostream>
+
+1542985475 source:c:\users\dario\onedrive\desktop\the last battle 16\jugador.cpp
+	"Jugador.h"
+
+1542996567 source:c:\users\dario\onedrive\desktop\the last battle 16\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543091845 source:c:\users\dario\onedrive\desktop\the last battle 16\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543091870 source:c:\users\dario\onedrive\desktop\the last battle 16\samurai.cpp
+	"Samurai.h"
+
+1543091178 source:c:\users\dario\onedrive\desktop\the last battle 16\tropa.cpp
+	"Tropa.h"
+
+1543092680 source:c:\users\dario\onedrive\desktop\the last battle 16\tablero.cpp
+	"Tablero.h"
+
+1543085330 c:\users\dario\onedrive\desktop\the last battle 16\coordenada.h
+	<iostream>
+	<math.h>
+
+1543087391 source:c:\users\dario\onedrive\desktop\the last battle 16\coordenada.cpp
+	"Coordenada.h"
+
+1543168872 source:c:\users\dario\documents\codeblocks\the last battle 16\arquero.cpp
+	"Arquero.h"
+
+1543170358 c:\users\dario\documents\codeblocks\the last battle 16\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1543170391 c:\users\dario\documents\codeblocks\the last battle 16\tropa.h
+	<string>
+	"Coordenada.h"
+	"ListaSE.h"
+
+1543085330 c:\users\dario\documents\codeblocks\the last battle 16\coordenada.h
+	<iostream>
+	<math.h>
+
+1543175067 c:\users\dario\documents\codeblocks\the last battle 16\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\documents\codeblocks\the last battle 16\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\documents\codeblocks\the last battle 16\nodos.h
+
+1542929917 source:c:\users\dario\documents\codeblocks\the last battle 16\casillero.cpp
+	"Casillero.h"
+
+1543085865 c:\users\dario\documents\codeblocks\the last battle 16\casillero.h
+	"Tropa.h"
+
+1543168505 source:c:\users\dario\documents\codeblocks\the last battle 16\contendiente.cpp
+	"Contendiente.h"
+
+1543170358 c:\users\dario\documents\codeblocks\the last battle 16\contendiente.h
+	"Tropa.h"
+
+1543087391 source:c:\users\dario\documents\codeblocks\the last battle 16\coordenada.cpp
+	"Coordenada.h"
+
+1543168872 source:c:\users\dario\documents\codeblocks\the last battle 16\enano.cpp
+	"Enano.h"
+
+1543170358 c:\users\dario\documents\codeblocks\the last battle 16\enano.h
+	"Tropa.h"
+
+1543169473 source:c:\users\dario\documents\codeblocks\the last battle 16\juego.cpp
+	"Juego.h"
+
+1542929045 c:\users\dario\documents\codeblocks\the last battle 16\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1542984168 c:\users\dario\documents\codeblocks\the last battle 16\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<iostream>
+	<Windows.h>
+
+1543170358 c:\users\dario\documents\codeblocks\the last battle 16\ninja.h
+	"Tropa.h"
+
+1543170358 c:\users\dario\documents\codeblocks\the last battle 16\samurai.h
+	"Tropa.h"
+
+1543170993 c:\users\dario\documents\codeblocks\the last battle 16\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	"Coordenada.h"
+	<iostream>
+
+1542985475 source:c:\users\dario\documents\codeblocks\the last battle 16\jugador.cpp
+	"Jugador.h"
+
+1542996567 source:c:\users\dario\documents\codeblocks\the last battle 16\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543168872 source:c:\users\dario\documents\codeblocks\the last battle 16\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543168910 source:c:\users\dario\documents\codeblocks\the last battle 16\samurai.cpp
+	"Samurai.h"
+
+1543168999 source:c:\users\dario\documents\codeblocks\the last battle 16\tropa.cpp
+	"Tropa.h"
+
+1543172135 source:c:\users\dario\documents\codeblocks\the last battle 16\tablero.cpp
+	"Tablero.h"
+
+1543189963 source:c:\users\dario\documents\codeblocks\the last battle 17\arquero.cpp
+	"Arquero.h"
+
+1543170358 c:\users\dario\documents\codeblocks\the last battle 17\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1543190596 c:\users\dario\documents\codeblocks\the last battle 17\tropa.h
+	<string>
+	"Casillero.h"
+	"ListaSE.h"
+
+1543085330 c:\users\dario\documents\codeblocks\the last battle 17\coordenada.h
+	<iostream>
+	<math.h>
+
+1543175067 c:\users\dario\documents\codeblocks\the last battle 17\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\documents\codeblocks\the last battle 17\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\documents\codeblocks\the last battle 17\nodos.h
+
+1543178516 source:c:\users\dario\documents\codeblocks\the last battle 17\casillero.cpp
+	"Casillero.h"
+
+1543177621 c:\users\dario\documents\codeblocks\the last battle 17\casillero.h
+	"Tropa.h"
+
+1543190125 source:c:\users\dario\documents\codeblocks\the last battle 17\contendiente.cpp
+	"Contendiente.h"
+
+1543170358 c:\users\dario\documents\codeblocks\the last battle 17\contendiente.h
+	"Tropa.h"
+
+1543087391 source:c:\users\dario\documents\codeblocks\the last battle 17\coordenada.cpp
+	"Coordenada.h"
+
+1543190125 source:c:\users\dario\documents\codeblocks\the last battle 17\enano.cpp
+	"Enano.h"
+
+1543170358 c:\users\dario\documents\codeblocks\the last battle 17\enano.h
+	"Tropa.h"
+
+1543190621 source:c:\users\dario\documents\codeblocks\the last battle 17\juego.cpp
+	"Juego.h"
+
+1542929045 c:\users\dario\documents\codeblocks\the last battle 17\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1542984168 c:\users\dario\documents\codeblocks\the last battle 17\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<iostream>
+	<Windows.h>
+
+1543170358 c:\users\dario\documents\codeblocks\the last battle 17\ninja.h
+	"Tropa.h"
+
+1543170358 c:\users\dario\documents\codeblocks\the last battle 17\samurai.h
+	"Tropa.h"
+
+1543190182 c:\users\dario\documents\codeblocks\the last battle 17\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	<iostream>
+
+1542985475 source:c:\users\dario\documents\codeblocks\the last battle 17\jugador.cpp
+	"Jugador.h"
+
+1542996567 source:c:\users\dario\documents\codeblocks\the last battle 17\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543190125 source:c:\users\dario\documents\codeblocks\the last battle 17\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543190125 source:c:\users\dario\documents\codeblocks\the last battle 17\samurai.cpp
+	"Samurai.h"
+
+1543190073 source:c:\users\dario\documents\codeblocks\the last battle 17\tropa.cpp
+	"Tropa.h"
+
+1543190504 source:c:\users\dario\documents\codeblocks\the last battle 17\tablero.cpp
+	"Tablero.h"
+
+1543189963 source:c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\arquero.cpp
+	"Arquero.h"
+
+1543170358 c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1543190596 c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\tropa.h
+	<string>
+	"Casillero.h"
+	"ListaSE.h"
+
+1543177621 c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\casillero.h
+	"Tropa.h"
+
+1543175067 c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\nodos.h
+
+1543243479 source:c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\casillero.cpp
+	"Casillero.h"
+
+1543190125 source:c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\contendiente.cpp
+	"Contendiente.h"
+
+1543170358 c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\contendiente.h
+	"Tropa.h"
+
+1543190125 source:c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\enano.cpp
+	"Enano.h"
+
+1543170358 c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\enano.h
+	"Tropa.h"
+
+1543244402 source:c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\juego.cpp
+	"Juego.h"
+
+1542929045 c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1543204717 c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<iostream>
+	<windows.h>
+
+1543170358 c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\ninja.h
+	"Tropa.h"
+
+1543170358 c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\samurai.h
+	"Tropa.h"
+
+1543201544 c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	<iostream>
+
+1542985475 source:c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\jugador.cpp
+	"Jugador.h"
+
+1542996567 source:c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543190125 source:c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543190073 source:c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\tropa.cpp
+	"Tropa.h"
+
+1543190770 source:c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\samurai.cpp
+	"Samurai.h"
+
+1543244878 source:c:\users\dario\documents\codeblocks\the last battle 17 bug arreglado\tablero.cpp
+	"Tablero.h"
+
+1543189963 source:c:\users\dario\onedrive\desktop\the last battle pruebas\arquero.cpp
+	"Arquero.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle pruebas\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1543190596 c:\users\dario\onedrive\desktop\the last battle pruebas\tropa.h
+	<string>
+	"Casillero.h"
+	"ListaSE.h"
+
+1543177621 c:\users\dario\onedrive\desktop\the last battle pruebas\casillero.h
+	"Tropa.h"
+
+1543175067 c:\users\dario\onedrive\desktop\the last battle pruebas\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\onedrive\desktop\the last battle pruebas\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\onedrive\desktop\the last battle pruebas\nodos.h
+
+1543190125 source:c:\users\dario\onedrive\desktop\the last battle pruebas\contendiente.cpp
+	"Contendiente.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle pruebas\contendiente.h
+	"Tropa.h"
+
+1543190125 source:c:\users\dario\onedrive\desktop\the last battle pruebas\enano.cpp
+	"Enano.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle pruebas\enano.h
+	"Tropa.h"
+
+1543244402 source:c:\users\dario\onedrive\desktop\the last battle pruebas\juego.cpp
+	"Juego.h"
+
+1542929045 c:\users\dario\onedrive\desktop\the last battle pruebas\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1543204717 c:\users\dario\onedrive\desktop\the last battle pruebas\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<iostream>
+	<windows.h>
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle pruebas\ninja.h
+	"Tropa.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle pruebas\samurai.h
+	"Tropa.h"
+
+1543201544 c:\users\dario\onedrive\desktop\the last battle pruebas\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	<iostream>
+
+1542985475 source:c:\users\dario\onedrive\desktop\the last battle pruebas\jugador.cpp
+	"Jugador.h"
+
+1542996567 source:c:\users\dario\onedrive\desktop\the last battle pruebas\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543190125 source:c:\users\dario\onedrive\desktop\the last battle pruebas\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543190770 source:c:\users\dario\onedrive\desktop\the last battle pruebas\samurai.cpp
+	"Samurai.h"
+
+1543190073 source:c:\users\dario\onedrive\desktop\the last battle pruebas\tropa.cpp
+	"Tropa.h"
+
+1543247450 source:c:\users\dario\onedrive\desktop\the last battle pruebas\tablero.cpp
+	"Tablero.h"
+
+1543246583 source:c:\users\dario\onedrive\desktop\the last battle pruebas\casillero.cpp
+	"Casillero.h"
+
+1543189963 source:c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\arquero.cpp
+	"Arquero.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1543190596 c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\tropa.h
+	<string>
+	"Casillero.h"
+	"ListaSE.h"
+
+1543257589 c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175067 c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\nodos.h
+
+1543190125 source:c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\contendiente.cpp
+	"Contendiente.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\contendiente.h
+	"Tropa.h"
+
+1543190125 source:c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\enano.cpp
+	"Enano.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\enano.h
+	"Tropa.h"
+
+1543260110 source:c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\juego.cpp
+	"Juego.h"
+
+1542929045 c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1543204717 c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<iostream>
+	<windows.h>
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\ninja.h
+	"Tropa.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\samurai.h
+	"Tropa.h"
+
+1543201544 c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	<iostream>
+
+1542985475 source:c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\jugador.cpp
+	"Jugador.h"
+
+1542996567 source:c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543190125 source:c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543190770 source:c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\samurai.cpp
+	"Samurai.h"
+
+1543190073 source:c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\tropa.cpp
+	"Tropa.h"
+
+1543259449 source:c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\casillero.cpp
+	"Casillero.h"
+
+1543259927 source:c:\users\dario\onedrive\desktop\the last battle prueba 1 eligiendo a mano\tablero.cpp
+	"Tablero.h"
+
+1543189963 source:c:\users\dario\onedrive\desktop\the last battle 20\arquero.cpp
+	"Arquero.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 20\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1543190596 c:\users\dario\onedrive\desktop\the last battle 20\tropa.h
+	<string>
+	"Casillero.h"
+	"ListaSE.h"
+
+1543273398 c:\users\dario\onedrive\desktop\the last battle 20\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175067 c:\users\dario\onedrive\desktop\the last battle 20\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\onedrive\desktop\the last battle 20\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\onedrive\desktop\the last battle 20\nodos.h
+
+1543259449 source:c:\users\dario\onedrive\desktop\the last battle 20\casillero.cpp
+	"Casillero.h"
+
+1543190125 source:c:\users\dario\onedrive\desktop\the last battle 20\contendiente.cpp
+	"Contendiente.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 20\contendiente.h
+	"Tropa.h"
+
+1543190125 source:c:\users\dario\onedrive\desktop\the last battle 20\enano.cpp
+	"Enano.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 20\enano.h
+	"Tropa.h"
+
+1543260110 source:c:\users\dario\onedrive\desktop\the last battle 20\juego.cpp
+	"Juego.h"
+
+1542929045 c:\users\dario\onedrive\desktop\the last battle 20\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1543204717 c:\users\dario\onedrive\desktop\the last battle 20\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<iostream>
+	<windows.h>
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 20\ninja.h
+	"Tropa.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 20\samurai.h
+	"Tropa.h"
+
+1543201544 c:\users\dario\onedrive\desktop\the last battle 20\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	<iostream>
+
+1542985475 source:c:\users\dario\onedrive\desktop\the last battle 20\jugador.cpp
+	"Jugador.h"
+
+1542996567 source:c:\users\dario\onedrive\desktop\the last battle 20\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543190125 source:c:\users\dario\onedrive\desktop\the last battle 20\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543190770 source:c:\users\dario\onedrive\desktop\the last battle 20\samurai.cpp
+	"Samurai.h"
+
+1543190073 source:c:\users\dario\onedrive\desktop\the last battle 20\tropa.cpp
+	"Tropa.h"
+
+1543275515 source:c:\users\dario\onedrive\desktop\the last battle 20\tablero.cpp
+	"Tablero.h"
+
+1543189963 source:c:\users\dario\onedrive\desktop\the last battle 21\arquero.cpp
+	"Arquero.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 21\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1543190596 c:\users\dario\onedrive\desktop\the last battle 21\tropa.h
+	<string>
+	"Casillero.h"
+	"ListaSE.h"
+
+1543273398 c:\users\dario\onedrive\desktop\the last battle 21\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175067 c:\users\dario\onedrive\desktop\the last battle 21\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\onedrive\desktop\the last battle 21\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\onedrive\desktop\the last battle 21\nodos.h
+
+1543259449 source:c:\users\dario\onedrive\desktop\the last battle 21\casillero.cpp
+	"Casillero.h"
+
+1543190125 source:c:\users\dario\onedrive\desktop\the last battle 21\contendiente.cpp
+	"Contendiente.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 21\contendiente.h
+	"Tropa.h"
+
+1543190125 source:c:\users\dario\onedrive\desktop\the last battle 21\enano.cpp
+	"Enano.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 21\enano.h
+	"Tropa.h"
+
+1543260110 source:c:\users\dario\onedrive\desktop\the last battle 21\juego.cpp
+	"Juego.h"
+
+1542929045 c:\users\dario\onedrive\desktop\the last battle 21\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1543204717 c:\users\dario\onedrive\desktop\the last battle 21\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<iostream>
+	<windows.h>
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 21\ninja.h
+	"Tropa.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 21\samurai.h
+	"Tropa.h"
+
+1543201544 c:\users\dario\onedrive\desktop\the last battle 21\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	<iostream>
+
+1542985475 source:c:\users\dario\onedrive\desktop\the last battle 21\jugador.cpp
+	"Jugador.h"
+
+1542996567 source:c:\users\dario\onedrive\desktop\the last battle 21\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543190125 source:c:\users\dario\onedrive\desktop\the last battle 21\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543190770 source:c:\users\dario\onedrive\desktop\the last battle 21\samurai.cpp
+	"Samurai.h"
+
+1543190073 source:c:\users\dario\onedrive\desktop\the last battle 21\tropa.cpp
+	"Tropa.h"
+
+1543189963 source:c:\users\dario\onedrive\desktop\the last battle 22\arquero.cpp
+	"Arquero.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 22\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1543190596 c:\users\dario\onedrive\desktop\the last battle 22\tropa.h
+	<string>
+	"Casillero.h"
+	"ListaSE.h"
+
+1543273398 c:\users\dario\onedrive\desktop\the last battle 22\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175067 c:\users\dario\onedrive\desktop\the last battle 22\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\onedrive\desktop\the last battle 22\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\onedrive\desktop\the last battle 22\nodos.h
+
+1543259449 source:c:\users\dario\onedrive\desktop\the last battle 22\casillero.cpp
+	"Casillero.h"
+
+1543284596 source:c:\users\dario\onedrive\desktop\the last battle 22\contendiente.cpp
+	"Contendiente.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 22\contendiente.h
+	"Tropa.h"
+
+1543190125 source:c:\users\dario\onedrive\desktop\the last battle 22\enano.cpp
+	"Enano.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 22\enano.h
+	"Tropa.h"
+
+1543286902 source:c:\users\dario\onedrive\desktop\the last battle 22\juego.cpp
+	"Juego.h"
+
+1542929045 c:\users\dario\onedrive\desktop\the last battle 22\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1543204717 c:\users\dario\onedrive\desktop\the last battle 22\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<iostream>
+	<windows.h>
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 22\ninja.h
+	"Tropa.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 22\samurai.h
+	"Tropa.h"
+
+1543201544 c:\users\dario\onedrive\desktop\the last battle 22\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	<iostream>
+
+1542985475 source:c:\users\dario\onedrive\desktop\the last battle 22\jugador.cpp
+	"Jugador.h"
+
+1542996567 source:c:\users\dario\onedrive\desktop\the last battle 22\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543285782 source:c:\users\dario\onedrive\desktop\the last battle 22\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543284979 source:c:\users\dario\onedrive\desktop\the last battle 22\samurai.cpp
+	"Samurai.h"
+
+1543287328 source:c:\users\dario\onedrive\desktop\the last battle 22\tablero.cpp
+	"Tablero.h"
+
+1543282170 source:c:\users\dario\onedrive\desktop\the last battle 22\tropa.cpp
+	"Tropa.h"
+
+1543189963 source:c:\users\dario\onedrive\desktop\the last battle 23\arquero.cpp
+	"Arquero.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 23\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1543190596 c:\users\dario\onedrive\desktop\the last battle 23\tropa.h
+	<string>
+	"Casillero.h"
+	"ListaSE.h"
+
+1543273398 c:\users\dario\onedrive\desktop\the last battle 23\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175067 c:\users\dario\onedrive\desktop\the last battle 23\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\onedrive\desktop\the last battle 23\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\onedrive\desktop\the last battle 23\nodos.h
+
+1543290883 source:c:\users\dario\onedrive\desktop\the last battle 23\casillero.cpp
+	"Casillero.h"
+
+1543284596 source:c:\users\dario\onedrive\desktop\the last battle 23\contendiente.cpp
+	"Contendiente.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 23\contendiente.h
+	"Tropa.h"
+
+1543190125 source:c:\users\dario\onedrive\desktop\the last battle 23\enano.cpp
+	"Enano.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 23\enano.h
+	"Tropa.h"
+
+1542996567 source:c:\users\dario\onedrive\desktop\the last battle 23\main.cpp
+	<iostream>
+	"Juego.h"
+
+1542929045 c:\users\dario\onedrive\desktop\the last battle 23\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1543289258 c:\users\dario\onedrive\desktop\the last battle 23\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<iostream>
+	<windows.h>
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 23\ninja.h
+	"Tropa.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 23\samurai.h
+	"Tropa.h"
+
+1543290302 c:\users\dario\onedrive\desktop\the last battle 23\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	<iostream>
+
+1543285782 source:c:\users\dario\onedrive\desktop\the last battle 23\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543284979 source:c:\users\dario\onedrive\desktop\the last battle 23\samurai.cpp
+	"Samurai.h"
+
+1543290620 source:c:\users\dario\onedrive\desktop\the last battle 23\tablero.cpp
+	"Tablero.h"
+
+1543282170 source:c:\users\dario\onedrive\desktop\the last battle 23\tropa.cpp
+	"Tropa.h"
+
+1543290388 source:c:\users\dario\onedrive\desktop\the last battle 23\juego.cpp
+	"Juego.h"
+
+1543289374 source:c:\users\dario\onedrive\desktop\the last battle 23\jugador.cpp
+	"Jugador.h"
+
+1543337132 source:c:\users\dario\onedrive\desktop\the last battle 24\arquero.cpp
+	"Arquero.h"
+
+1543337140 c:\users\dario\onedrive\desktop\the last battle 24\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1543337174 c:\users\dario\onedrive\desktop\the last battle 24\tropa.h
+	<string>
+	"Casillero.h"
+	"ListaSE.h"
+
+1543291198 c:\users\dario\onedrive\desktop\the last battle 24\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175067 c:\users\dario\onedrive\desktop\the last battle 24\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\onedrive\desktop\the last battle 24\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\onedrive\desktop\the last battle 24\nodos.h
+
+1543337218 source:c:\users\dario\onedrive\desktop\the last battle 24\contendiente.cpp
+	"Contendiente.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 24\contendiente.h
+	"Tropa.h"
+
+1543337218 source:c:\users\dario\onedrive\desktop\the last battle 24\enano.cpp
+	"Enano.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 24\enano.h
+	"Tropa.h"
+
+1543291003 source:c:\users\dario\onedrive\desktop\the last battle 24\juego.cpp
+	"Juego.h"
+
+1542929045 c:\users\dario\onedrive\desktop\the last battle 24\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1543289258 c:\users\dario\onedrive\desktop\the last battle 24\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<iostream>
+	<windows.h>
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 24\ninja.h
+	"Tropa.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 24\samurai.h
+	"Tropa.h"
+
+1543340457 c:\users\dario\onedrive\desktop\the last battle 24\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	<iostream>
+
+1543339598 source:c:\users\dario\onedrive\desktop\the last battle 24\jugador.cpp
+	"Jugador.h"
+
+1542996567 source:c:\users\dario\onedrive\desktop\the last battle 24\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543337234 source:c:\users\dario\onedrive\desktop\the last battle 24\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543337284 source:c:\users\dario\onedrive\desktop\the last battle 24\samurai.cpp
+	"Samurai.h"
+
+1543321583 source:c:\users\dario\onedrive\desktop\the last battle 24\tropa.cpp
+	"Tropa.h"
+
+1543291214 source:c:\users\dario\onedrive\desktop\the last battle 24\casillero.cpp
+	"Casillero.h"
+
+1543340526 source:c:\users\dario\onedrive\desktop\the last battle 24\tablero.cpp
+	"Tablero.h"
+
+1543337132 source:c:\users\dario\onedrive\desktop\the last battle almost finished!!24\arquero.cpp
+	"Arquero.h"
+
+1543443128 c:\users\dario\onedrive\desktop\the last battle almost finished!!24\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1543447152 c:\users\dario\onedrive\desktop\the last battle almost finished!!24\tropa.h
+	<string>
+	"Casillero.h"
+	"ListaSE.h"
+
+1543429071 c:\users\dario\onedrive\desktop\the last battle almost finished!!24\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175067 c:\users\dario\onedrive\desktop\the last battle almost finished!!24\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\onedrive\desktop\the last battle almost finished!!24\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\onedrive\desktop\the last battle almost finished!!24\nodos.h
+
+1543291214 source:c:\users\dario\onedrive\desktop\the last battle almost finished!!24\casillero.cpp
+	"Casillero.h"
+
+1543337218 source:c:\users\dario\onedrive\desktop\the last battle almost finished!!24\contendiente.cpp
+	"Contendiente.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle almost finished!!24\contendiente.h
+	"Tropa.h"
+
+1543337218 source:c:\users\dario\onedrive\desktop\the last battle almost finished!!24\enano.cpp
+	"Enano.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle almost finished!!24\enano.h
+	"Tropa.h"
+
+1543448251 source:c:\users\dario\onedrive\desktop\the last battle almost finished!!24\juego.cpp
+	"Juego.h"
+
+1542929045 c:\users\dario\onedrive\desktop\the last battle almost finished!!24\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1543443531 c:\users\dario\onedrive\desktop\the last battle almost finished!!24\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<iostream>
+	<windows.h>
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle almost finished!!24\ninja.h
+	"Tropa.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle almost finished!!24\samurai.h
+	"Tropa.h"
+
+1543443603 c:\users\dario\onedrive\desktop\the last battle almost finished!!24\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	<iostream>
+
+1543448776 source:c:\users\dario\onedrive\desktop\the last battle almost finished!!24\jugador.cpp
+	"Jugador.h"
+
+1543441892 source:c:\users\dario\onedrive\desktop\the last battle almost finished!!24\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543337234 source:c:\users\dario\onedrive\desktop\the last battle almost finished!!24\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543337284 source:c:\users\dario\onedrive\desktop\the last battle almost finished!!24\samurai.cpp
+	"Samurai.h"
+
+1543447878 source:c:\users\dario\onedrive\desktop\the last battle almost finished!!24\tropa.cpp
+	"Tropa.h"
+
+1543447710 source:c:\users\dario\onedrive\desktop\the last battle almost finished!!24\tablero.cpp
+	"Tablero.h"
+
+1543451506 source:c:\users\dario\onedrive\desktop\the last battle almost finished!!25\arquero.cpp
+	"Arquero.h"
+
+1543453748 c:\users\dario\onedrive\desktop\the last battle almost finished!!25\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1543454334 c:\users\dario\onedrive\desktop\the last battle almost finished!!25\tropa.h
+	<string>
+	"Casillero.h"
+	"ListaSE.h"
+
+1543454134 c:\users\dario\onedrive\desktop\the last battle almost finished!!25\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175067 c:\users\dario\onedrive\desktop\the last battle almost finished!!25\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\onedrive\desktop\the last battle almost finished!!25\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\onedrive\desktop\the last battle almost finished!!25\nodos.h
+
+1543291214 source:c:\users\dario\onedrive\desktop\the last battle almost finished!!25\casillero.cpp
+	"Casillero.h"
+
+1543451541 source:c:\users\dario\onedrive\desktop\the last battle almost finished!!25\contendiente.cpp
+	"Contendiente.h"
+
+1543454251 c:\users\dario\onedrive\desktop\the last battle almost finished!!25\contendiente.h
+	"Tropa.h"
+
+1543451567 source:c:\users\dario\onedrive\desktop\the last battle almost finished!!25\enano.cpp
+	"Enano.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle almost finished!!25\enano.h
+	"Tropa.h"
+
+1543453615 source:c:\users\dario\onedrive\desktop\the last battle almost finished!!25\juego.cpp
+	"Juego.h"
+
+1543453863 c:\users\dario\onedrive\desktop\the last battle almost finished!!25\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1543454041 c:\users\dario\onedrive\desktop\the last battle almost finished!!25\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<iostream>
+	<windows.h>
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle almost finished!!25\ninja.h
+	"Tropa.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle almost finished!!25\samurai.h
+	"Tropa.h"
+
+1543453707 c:\users\dario\onedrive\desktop\the last battle almost finished!!25\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	<iostream>
+
+1543448776 source:c:\users\dario\onedrive\desktop\the last battle almost finished!!25\jugador.cpp
+	"Jugador.h"
+
+1543441892 source:c:\users\dario\onedrive\desktop\the last battle almost finished!!25\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543451621 source:c:\users\dario\onedrive\desktop\the last battle almost finished!!25\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543451621 source:c:\users\dario\onedrive\desktop\the last battle almost finished!!25\samurai.cpp
+	"Samurai.h"
+
+1543452125 source:c:\users\dario\onedrive\desktop\the last battle almost finished!!25\tablero.cpp
+	"Tablero.h"
+
+1543452986 source:c:\users\dario\onedrive\desktop\the last battle almost finished!!25\tropa.cpp
+	"Tropa.h"
+
+1543497510 source:c:\users\dario\onedrive\desktop\the last battle 26\arquero.cpp
+	"Arquero.h"
+
+1543453748 c:\users\dario\onedrive\desktop\the last battle 26\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1543545827 c:\users\dario\onedrive\desktop\the last battle 26\tropa.h
+	<string>
+	"Casillero.h"
+	"ListaSE.h"
+
+1543454134 c:\users\dario\onedrive\desktop\the last battle 26\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175067 c:\users\dario\onedrive\desktop\the last battle 26\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\onedrive\desktop\the last battle 26\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\onedrive\desktop\the last battle 26\nodos.h
+
+1543291214 source:c:\users\dario\onedrive\desktop\the last battle 26\casillero.cpp
+	"Casillero.h"
+
+1543497510 source:c:\users\dario\onedrive\desktop\the last battle 26\contendiente.cpp
+	"Contendiente.h"
+
+1543454251 c:\users\dario\onedrive\desktop\the last battle 26\contendiente.h
+	"Tropa.h"
+
+1543497528 source:c:\users\dario\onedrive\desktop\the last battle 26\enano.cpp
+	"Enano.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 26\enano.h
+	"Tropa.h"
+
+1543529066 source:c:\users\dario\onedrive\desktop\the last battle 26\jugador.cpp
+	"Jugador.h"
+
+1543528910 c:\users\dario\onedrive\desktop\the last battle 26\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<iostream>
+	<windows.h>
+
+1543545844 c:\users\dario\onedrive\desktop\the last battle 26\ninja.h
+	"Tropa.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 26\samurai.h
+	"Tropa.h"
+
+1543441892 source:c:\users\dario\onedrive\desktop\the last battle 26\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543536129 c:\users\dario\onedrive\desktop\the last battle 26\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1543535971 c:\users\dario\onedrive\desktop\the last battle 26\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	<iostream>
+
+1543544326 source:c:\users\dario\onedrive\desktop\the last battle 26\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543451621 source:c:\users\dario\onedrive\desktop\the last battle 26\samurai.cpp
+	"Samurai.h"
+
+1543452986 source:c:\users\dario\onedrive\desktop\the last battle 26\tropa.cpp
+	"Tropa.h"
+
+1543536129 source:c:\users\dario\onedrive\desktop\the last battle 26\juego.cpp
+	"Juego.h"
+
+1543540617 source:c:\users\dario\onedrive\desktop\the last battle 26\tablero.cpp
+	"Tablero.h"
+
+1543589055 source:c:\users\dario\onedrive\desktop\the last battle 27\arquero.cpp
+	"Arquero.h"
+
+1543453748 c:\users\dario\onedrive\desktop\the last battle 27\arquero.h
+	<time.h>
+	<windows.h>
+	"Tropa.h"
+
+1543589429 c:\users\dario\onedrive\desktop\the last battle 27\tropa.h
+	<string>
+	"Casillero.h"
+	"ListaSE.h"
+
+1543454134 c:\users\dario\onedrive\desktop\the last battle 27\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175067 c:\users\dario\onedrive\desktop\the last battle 27\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\onedrive\desktop\the last battle 27\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\onedrive\desktop\the last battle 27\nodos.h
+
+1543291214 source:c:\users\dario\onedrive\desktop\the last battle 27\casillero.cpp
+	"Casillero.h"
+
+1543587755 source:c:\users\dario\onedrive\desktop\the last battle 27\contendiente.cpp
+	"Contendiente.h"
+
+1543454251 c:\users\dario\onedrive\desktop\the last battle 27\contendiente.h
+	"Tropa.h"
+
+1543589070 source:c:\users\dario\onedrive\desktop\the last battle 27\enano.cpp
+	"Enano.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 27\enano.h
+	"Tropa.h"
+
+1543441892 source:c:\users\dario\onedrive\desktop\the last battle 27\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543588063 c:\users\dario\onedrive\desktop\the last battle 27\juego.h
+	"Jugador.h"
+	"Tablero.h"
+	<iostream>
+	"ListaSE.h"
+
+1543588642 c:\users\dario\onedrive\desktop\the last battle 27\jugador.h
+	"Tropa.h"
+	"ListaSE.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<iostream>
+	<windows.h>
+
+1543545844 c:\users\dario\onedrive\desktop\the last battle 27\ninja.h
+	"Tropa.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 27\samurai.h
+	"Tropa.h"
+
+1543587337 c:\users\dario\onedrive\desktop\the last battle 27\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+	<iostream>
+
+1543587755 source:c:\users\dario\onedrive\desktop\the last battle 27\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543587755 source:c:\users\dario\onedrive\desktop\the last battle 27\samurai.cpp
+	"Samurai.h"
+
+1543581434 source:c:\users\dario\onedrive\desktop\the last battle 27\jugador.cpp
+	"Jugador.h"
+
+1543589157 source:c:\users\dario\onedrive\desktop\the last battle 27\juego.cpp
+	"Juego.h"
+
+1543589429 source:c:\users\dario\onedrive\desktop\the last battle 27\tropa.cpp
+	"Tropa.h"
+
+1543600861 source:c:\users\dario\onedrive\desktop\the last battle 28\arquero.cpp
+	"Arquero.h"
+
+1543601536 c:\users\dario\onedrive\desktop\the last battle 28\arquero.h
+	"Tropa.h"
+
+1543600279 c:\users\dario\onedrive\desktop\the last battle 28\tropa.h
+	"Casillero.h"
+	"ListaSE.h"
+
+1543600216 c:\users\dario\onedrive\desktop\the last battle 28\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175067 c:\users\dario\onedrive\desktop\the last battle 28\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\onedrive\desktop\the last battle 28\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\onedrive\desktop\the last battle 28\nodos.h
+
+1543291214 source:c:\users\dario\onedrive\desktop\the last battle 28\casillero.cpp
+	"Casillero.h"
+
+1543600895 source:c:\users\dario\onedrive\desktop\the last battle 28\contendiente.cpp
+	"Contendiente.h"
+
+1543454251 c:\users\dario\onedrive\desktop\the last battle 28\contendiente.h
+	"Tropa.h"
+
+1543600933 source:c:\users\dario\onedrive\desktop\the last battle 28\enano.cpp
+	"Enano.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 28\enano.h
+	"Tropa.h"
+
+1543581434 source:c:\users\dario\onedrive\desktop\the last battle 28\jugador.cpp
+	"Jugador.h"
+
+1543601559 c:\users\dario\onedrive\desktop\the last battle 28\jugador.h
+	"Tropa.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<windows.h>
+
+1543545844 c:\users\dario\onedrive\desktop\the last battle 28\ninja.h
+	"Tropa.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 28\samurai.h
+	"Tropa.h"
+
+1543441892 source:c:\users\dario\onedrive\desktop\the last battle 28\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543601511 c:\users\dario\onedrive\desktop\the last battle 28\juego.h
+	"Jugador.h"
+	"Tablero.h"
+
+1543599932 c:\users\dario\onedrive\desktop\the last battle 28\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+
+1543587755 source:c:\users\dario\onedrive\desktop\the last battle 28\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543600985 source:c:\users\dario\onedrive\desktop\the last battle 28\samurai.cpp
+	"Samurai.h"
+
+1543599453 source:c:\users\dario\onedrive\desktop\the last battle 28\tablero.cpp
+	"Tablero.h"
+
+1543598518 source:c:\users\dario\onedrive\desktop\the last battle 28\tropa.cpp
+	"Tropa.h"
+
+1543601330 source:c:\users\dario\onedrive\desktop\the last battle 28\juego.cpp
+	"Juego.h"
+
+1543600861 source:c:\users\dario\onedrive\desktop\the last battle 29\arquero.cpp
+	"Arquero.h"
+
+1543601536 c:\users\dario\onedrive\desktop\the last battle 29\arquero.h
+	"Tropa.h"
+
+1543612074 c:\users\dario\onedrive\desktop\the last battle 29\tropa.h
+	"Casillero.h"
+	"ListaSE.h"
+
+1543600216 c:\users\dario\onedrive\desktop\the last battle 29\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175067 c:\users\dario\onedrive\desktop\the last battle 29\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\onedrive\desktop\the last battle 29\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\onedrive\desktop\the last battle 29\nodos.h
+
+1543291214 source:c:\users\dario\onedrive\desktop\the last battle 29\casillero.cpp
+	"Casillero.h"
+
+1543600895 source:c:\users\dario\onedrive\desktop\the last battle 29\contendiente.cpp
+	"Contendiente.h"
+
+1543454251 c:\users\dario\onedrive\desktop\the last battle 29\contendiente.h
+	"Tropa.h"
+
+1543609223 source:c:\users\dario\onedrive\desktop\the last battle 29\jugador.cpp
+	"Jugador.h"
+
+1543609222 c:\users\dario\onedrive\desktop\the last battle 29\jugador.h
+	"Tropa.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<windows.h>
+
+1543545844 c:\users\dario\onedrive\desktop\the last battle 29\ninja.h
+	"Tropa.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 29\enano.h
+	"Tropa.h"
+
+1543170358 c:\users\dario\onedrive\desktop\the last battle 29\samurai.h
+	"Tropa.h"
+
+1543441892 source:c:\users\dario\onedrive\desktop\the last battle 29\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543612605 c:\users\dario\onedrive\desktop\the last battle 29\juego.h
+	"Jugador.h"
+	"Tablero.h"
+
+1543599932 c:\users\dario\onedrive\desktop\the last battle 29\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+
+1543587755 source:c:\users\dario\onedrive\desktop\the last battle 29\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543600985 source:c:\users\dario\onedrive\desktop\the last battle 29\samurai.cpp
+	"Samurai.h"
+
+1543612534 source:c:\users\dario\onedrive\desktop\the last battle 29\tablero.cpp
+	"Tablero.h"
+
+1543612074 source:c:\users\dario\onedrive\desktop\the last battle 29\tropa.cpp
+	"Tropa.h"
+
+1543612373 source:c:\users\dario\onedrive\desktop\the last battle 29\enano.cpp
+	"Enano.h"
+
+1543612497 source:c:\users\dario\onedrive\desktop\the last battle 29\juego.cpp
+	"Juego.h"
+
+1543615046 source:c:\users\dario\documents\codeblocks\the last battle terminado\arquero.cpp
+	"Arquero.h"
+
+1543601536 c:\users\dario\documents\codeblocks\the last battle terminado\arquero.h
+	"Tropa.h"
+
+1543612074 c:\users\dario\documents\codeblocks\the last battle terminado\tropa.h
+	"Casillero.h"
+	"ListaSE.h"
+
+1543617367 c:\users\dario\documents\codeblocks\the last battle terminado\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175067 c:\users\dario\documents\codeblocks\the last battle terminado\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\documents\codeblocks\the last battle terminado\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\documents\codeblocks\the last battle terminado\nodos.h
+
+1543291214 source:c:\users\dario\documents\codeblocks\the last battle terminado\casillero.cpp
+	"Casillero.h"
+
+1543615092 source:c:\users\dario\documents\codeblocks\the last battle terminado\contendiente.cpp
+	"Contendiente.h"
+
+1543454251 c:\users\dario\documents\codeblocks\the last battle terminado\contendiente.h
+	"Tropa.h"
+
+1543616837 source:c:\users\dario\documents\codeblocks\the last battle terminado\enano.cpp
+	"Enano.h"
+
+1543170358 c:\users\dario\documents\codeblocks\the last battle terminado\enano.h
+	"Tropa.h"
+
+1543617861 source:c:\users\dario\documents\codeblocks\the last battle terminado\juego.cpp
+	"Juego.h"
+
+1543612605 c:\users\dario\documents\codeblocks\the last battle terminado\juego.h
+	"Jugador.h"
+	"Tablero.h"
+
+1543609222 c:\users\dario\documents\codeblocks\the last battle terminado\jugador.h
+	"Tropa.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<windows.h>
+
+1543545844 c:\users\dario\documents\codeblocks\the last battle terminado\ninja.h
+	"Tropa.h"
+
+1543170358 c:\users\dario\documents\codeblocks\the last battle terminado\samurai.h
+	"Tropa.h"
+
+1543599932 c:\users\dario\documents\codeblocks\the last battle terminado\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+
+1543609223 source:c:\users\dario\documents\codeblocks\the last battle terminado\jugador.cpp
+	"Jugador.h"
+
+1543617430 source:c:\users\dario\documents\codeblocks\the last battle terminado\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543615117 source:c:\users\dario\documents\codeblocks\the last battle terminado\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543615117 source:c:\users\dario\documents\codeblocks\the last battle terminado\samurai.cpp
+	"Samurai.h"
+
+1543617526 source:c:\users\dario\documents\codeblocks\the last battle terminado\tablero.cpp
+	"Tablero.h"
+
+1543612074 source:c:\users\dario\documents\codeblocks\the last battle terminado\tropa.cpp
+	"Tropa.h"
+
+1543615048 source:c:\users\darío\desktop\the last battle terminado\arquero.cpp
+	"Arquero.h"
+
+1543601538 c:\users\darío\desktop\the last battle terminado\arquero.h
+	"Tropa.h"
+
+1543612076 c:\users\darío\desktop\the last battle terminado\tropa.h
+	"Casillero.h"
+	"ListaSE.h"
+
+1543617368 c:\users\darío\desktop\the last battle terminado\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175068 c:\users\darío\desktop\the last battle terminado\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\darío\desktop\the last battle terminado\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\darío\desktop\the last battle terminado\nodos.h
+
+1543291216 source:c:\users\darío\desktop\the last battle terminado\casillero.cpp
+	"Casillero.h"
+
+1543615094 source:c:\users\darío\desktop\the last battle terminado\contendiente.cpp
+	"Contendiente.h"
+
+1543454252 c:\users\darío\desktop\the last battle terminado\contendiente.h
+	"Tropa.h"
+
+1543616838 source:c:\users\darío\desktop\the last battle terminado\enano.cpp
+	"Enano.h"
+
+1543170360 c:\users\darío\desktop\the last battle terminado\enano.h
+	"Tropa.h"
+
+1543617862 source:c:\users\darío\desktop\the last battle terminado\juego.cpp
+	"Juego.h"
+
+1543612606 c:\users\darío\desktop\the last battle terminado\juego.h
+	"Jugador.h"
+	"Tablero.h"
+
+1543609224 c:\users\darío\desktop\the last battle terminado\jugador.h
+	"Tropa.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<windows.h>
+
+1543545846 c:\users\darío\desktop\the last battle terminado\ninja.h
+	"Tropa.h"
+
+1543170360 c:\users\darío\desktop\the last battle terminado\samurai.h
+	"Tropa.h"
+
+1543599934 c:\users\darío\desktop\the last battle terminado\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+
+1543609224 source:c:\users\darío\desktop\the last battle terminado\jugador.cpp
+	"Jugador.h"
+
+1543617432 source:c:\users\darío\desktop\the last battle terminado\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543615118 source:c:\users\darío\desktop\the last battle terminado\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543615118 source:c:\users\darío\desktop\the last battle terminado\samurai.cpp
+	"Samurai.h"
+
+1543617528 source:c:\users\darío\desktop\the last battle terminado\tablero.cpp
+	"Tablero.h"
+
+1543612076 source:c:\users\darío\desktop\the last battle terminado\tropa.cpp
+	"Tropa.h"
+
+1543615048 source:c:\users\darío\desktop\the last battle terminado 2 manual\arquero.cpp
+	"Arquero.h"
+
+1543601538 c:\users\darío\desktop\the last battle terminado 2 manual\arquero.h
+	"Tropa.h"
+
+1543612076 c:\users\darío\desktop\the last battle terminado 2 manual\tropa.h
+	"Casillero.h"
+	"ListaSE.h"
+
+1543617368 c:\users\darío\desktop\the last battle terminado 2 manual\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175068 c:\users\darío\desktop\the last battle terminado 2 manual\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\darío\desktop\the last battle terminado 2 manual\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\darío\desktop\the last battle terminado 2 manual\nodos.h
+
+1543291216 source:c:\users\darío\desktop\the last battle terminado 2 manual\casillero.cpp
+	"Casillero.h"
+
+1543615094 source:c:\users\darío\desktop\the last battle terminado 2 manual\contendiente.cpp
+	"Contendiente.h"
+
+1543454252 c:\users\darío\desktop\the last battle terminado 2 manual\contendiente.h
+	"Tropa.h"
+
+1543616838 source:c:\users\darío\desktop\the last battle terminado 2 manual\enano.cpp
+	"Enano.h"
+
+1543170360 c:\users\darío\desktop\the last battle terminado 2 manual\enano.h
+	"Tropa.h"
+
+1543609224 source:c:\users\darío\desktop\the last battle terminado 2 manual\jugador.cpp
+	"Jugador.h"
+
+1543609224 c:\users\darío\desktop\the last battle terminado 2 manual\jugador.h
+	"Tropa.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<windows.h>
+
+1543545846 c:\users\darío\desktop\the last battle terminado 2 manual\ninja.h
+	"Tropa.h"
+
+1543170360 c:\users\darío\desktop\the last battle terminado 2 manual\samurai.h
+	"Tropa.h"
+
+1543617432 source:c:\users\darío\desktop\the last battle terminado 2 manual\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543612606 c:\users\darío\desktop\the last battle terminado 2 manual\juego.h
+	"Jugador.h"
+	"Tablero.h"
+
+1543599934 c:\users\darío\desktop\the last battle terminado 2 manual\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+
+1543615118 source:c:\users\darío\desktop\the last battle terminado 2 manual\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543615118 source:c:\users\darío\desktop\the last battle terminado 2 manual\samurai.cpp
+	"Samurai.h"
+
+1543612076 source:c:\users\darío\desktop\the last battle terminado 2 manual\tropa.cpp
+	"Tropa.h"
+
+1543629125 source:c:\users\darío\desktop\the last battle terminado 2 manual\juego.cpp
+	"Juego.h"
+
+1543629709 source:c:\users\darío\desktop\the last battle terminado 2 manual\tablero.cpp
+	"Tablero.h"
+
+1543636640 source:c:\users\darío\desktop\the last battle terminado 3 manual\arquero.cpp
+	"Arquero.h"
+
+1543601538 c:\users\darío\desktop\the last battle terminado 3 manual\arquero.h
+	"Tropa.h"
+
+1543631394 c:\users\darío\desktop\the last battle terminado 3 manual\tropa.h
+	"Casillero.h"
+	"ListaSE.h"
+
+1543617368 c:\users\darío\desktop\the last battle terminado 3 manual\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175068 c:\users\darío\desktop\the last battle terminado 3 manual\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\darío\desktop\the last battle terminado 3 manual\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\darío\desktop\the last battle terminado 3 manual\nodos.h
+
+1543291216 source:c:\users\darío\desktop\the last battle terminado 3 manual\casillero.cpp
+	"Casillero.h"
+
+1543615094 source:c:\users\darío\desktop\the last battle terminado 3 manual\contendiente.cpp
+	"Contendiente.h"
+
+1543454252 c:\users\darío\desktop\the last battle terminado 3 manual\contendiente.h
+	"Tropa.h"
+
+1543616838 source:c:\users\darío\desktop\the last battle terminado 3 manual\enano.cpp
+	"Enano.h"
+
+1543170360 c:\users\darío\desktop\the last battle terminado 3 manual\enano.h
+	"Tropa.h"
+
+1543637202 source:c:\users\darío\desktop\the last battle terminado 3 manual\juego.cpp
+	"Juego.h"
+
+1543633445 c:\users\darío\desktop\the last battle terminado 3 manual\juego.h
+	"Jugador.h"
+	"Tablero.h"
+
+1543609224 c:\users\darío\desktop\the last battle terminado 3 manual\jugador.h
+	"Tropa.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<windows.h>
+
+1543545846 c:\users\darío\desktop\the last battle terminado 3 manual\ninja.h
+	"Tropa.h"
+
+1543170360 c:\users\darío\desktop\the last battle terminado 3 manual\samurai.h
+	"Tropa.h"
+
+1543599934 c:\users\darío\desktop\the last battle terminado 3 manual\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+
+1543609224 source:c:\users\darío\desktop\the last battle terminado 3 manual\jugador.cpp
+	"Jugador.h"
+
+1543617432 source:c:\users\darío\desktop\the last battle terminado 3 manual\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543615118 source:c:\users\darío\desktop\the last battle terminado 3 manual\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543615118 source:c:\users\darío\desktop\the last battle terminado 3 manual\samurai.cpp
+	"Samurai.h"
+
+1543638372 source:c:\users\darío\desktop\the last battle terminado 3 manual\tablero.cpp
+	"Tablero.h"
+
+1543632195 source:c:\users\darío\desktop\the last battle terminado 3 manual\tropa.cpp
+	"Tropa.h"
+
+1543636642 source:c:\users\dario\documents\codeblocks\the last battle final\arquero.cpp
+	"Arquero.h"
+
+1543601538 c:\users\dario\documents\codeblocks\the last battle final\arquero.h
+	"Tropa.h"
+
+1543670992 c:\users\dario\documents\codeblocks\the last battle final\tropa.h
+	"Casillero.h"
+	"ListaSE.h"
+
+1543617368 c:\users\dario\documents\codeblocks\the last battle final\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175068 c:\users\dario\documents\codeblocks\the last battle final\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\documents\codeblocks\the last battle final\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\documents\codeblocks\the last battle final\nodos.h
+
+1543291216 source:c:\users\dario\documents\codeblocks\the last battle final\casillero.cpp
+	"Casillero.h"
+
+1543615094 source:c:\users\dario\documents\codeblocks\the last battle final\contendiente.cpp
+	"Contendiente.h"
+
+1543454252 c:\users\dario\documents\codeblocks\the last battle final\contendiente.h
+	"Tropa.h"
+
+1543616838 source:c:\users\dario\documents\codeblocks\the last battle final\enano.cpp
+	"Enano.h"
+
+1543170360 c:\users\dario\documents\codeblocks\the last battle final\enano.h
+	"Tropa.h"
+
+1543609224 source:c:\users\dario\documents\codeblocks\the last battle final\jugador.cpp
+	"Jugador.h"
+
+1543609224 c:\users\dario\documents\codeblocks\the last battle final\jugador.h
+	"Tropa.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<windows.h>
+
+1543545846 c:\users\dario\documents\codeblocks\the last battle final\ninja.h
+	"Tropa.h"
+
+1543170360 c:\users\dario\documents\codeblocks\the last battle final\samurai.h
+	"Tropa.h"
+
+1543617432 source:c:\users\dario\documents\codeblocks\the last battle final\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543670305 c:\users\dario\documents\codeblocks\the last battle final\juego.h
+	"Jugador.h"
+	"Tablero.h"
+
+1543669855 c:\users\dario\documents\codeblocks\the last battle final\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+
+1543615118 source:c:\users\dario\documents\codeblocks\the last battle final\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543615118 source:c:\users\dario\documents\codeblocks\the last battle final\samurai.cpp
+	"Samurai.h"
+
+1543670992 source:c:\users\dario\documents\codeblocks\the last battle final\tropa.cpp
+	"Tropa.h"
+
+1543671522 source:c:\users\dario\documents\codeblocks\the last battle final\tablero.cpp
+	"Tablero.h"
+
+1543671533 source:c:\users\dario\documents\codeblocks\the last battle final\juego.cpp
+	"Juego.h"
+
+1543636642 source:c:\users\dario\documents\codeblocks\the last battle 30 final\arquero.cpp
+	"Arquero.h"
+
+1543601538 c:\users\dario\documents\codeblocks\the last battle 30 final\arquero.h
+	"Tropa.h"
+
+1543670992 c:\users\dario\documents\codeblocks\the last battle 30 final\tropa.h
+	"Casillero.h"
+	"ListaSE.h"
+
+1543617368 c:\users\dario\documents\codeblocks\the last battle 30 final\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175068 c:\users\dario\documents\codeblocks\the last battle 30 final\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\documents\codeblocks\the last battle 30 final\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\documents\codeblocks\the last battle 30 final\nodos.h
+
+1543291216 source:c:\users\dario\documents\codeblocks\the last battle 30 final\casillero.cpp
+	"Casillero.h"
+
+1543615094 source:c:\users\dario\documents\codeblocks\the last battle 30 final\contendiente.cpp
+	"Contendiente.h"
+
+1543454252 c:\users\dario\documents\codeblocks\the last battle 30 final\contendiente.h
+	"Tropa.h"
+
+1543616838 source:c:\users\dario\documents\codeblocks\the last battle 30 final\enano.cpp
+	"Enano.h"
+
+1543170360 c:\users\dario\documents\codeblocks\the last battle 30 final\enano.h
+	"Tropa.h"
+
+1543671533 source:c:\users\dario\documents\codeblocks\the last battle 30 final\juego.cpp
+	"Juego.h"
+
+1543670305 c:\users\dario\documents\codeblocks\the last battle 30 final\juego.h
+	"Jugador.h"
+	"Tablero.h"
+
+1543609224 c:\users\dario\documents\codeblocks\the last battle 30 final\jugador.h
+	"Tropa.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<windows.h>
+
+1543545846 c:\users\dario\documents\codeblocks\the last battle 30 final\ninja.h
+	"Tropa.h"
+
+1543170360 c:\users\dario\documents\codeblocks\the last battle 30 final\samurai.h
+	"Tropa.h"
+
+1543669855 c:\users\dario\documents\codeblocks\the last battle 30 final\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+
+1543609224 source:c:\users\dario\documents\codeblocks\the last battle 30 final\jugador.cpp
+	"Jugador.h"
+
+1543617432 source:c:\users\dario\documents\codeblocks\the last battle 30 final\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543615118 source:c:\users\dario\documents\codeblocks\the last battle 30 final\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543615118 source:c:\users\dario\documents\codeblocks\the last battle 30 final\samurai.cpp
+	"Samurai.h"
+
+1543673233 source:c:\users\dario\documents\codeblocks\the last battle 30 final\tablero.cpp
+	"Tablero.h"
+
+1543670992 source:c:\users\dario\documents\codeblocks\the last battle 30 final\tropa.cpp
+	"Tropa.h"
+
+1563037371 source:f:\documentos f\proyectos codeblocks\the last battle final\arquero.cpp
+	"Arquero.h"
+
+1544397013 f:\documentos f\proyectos codeblocks\the last battle final\arquero.h
+	"Tropa.h"
+	<time.h>
+
+1558400469 f:\documentos f\proyectos codeblocks\the last battle final\tropa.h
+	"Casillero.h"
+	"ListaSE.h"
+
+1543777004 f:\documentos f\proyectos codeblocks\the last battle final\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175068 f:\documentos f\proyectos codeblocks\the last battle final\listase.h
+	"Cursor.h"
+
+1539172426 f:\documentos f\proyectos codeblocks\the last battle final\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 f:\documentos f\proyectos codeblocks\the last battle final\nodos.h
+
+1543775266 source:f:\documentos f\proyectos codeblocks\the last battle final\casillero.cpp
+	"Casillero.h"
+
+1544310609 source:f:\documentos f\proyectos codeblocks\the last battle final\contendiente.cpp
+	"Contendiente.h"
+
+1544310529 f:\documentos f\proyectos codeblocks\the last battle final\contendiente.h
+	"Tropa.h"
+
+1562977427 source:f:\documentos f\proyectos codeblocks\the last battle final\enano.cpp
+	"Enano.h"
+
+1544400720 f:\documentos f\proyectos codeblocks\the last battle final\enano.h
+	"Tropa.h"
+	<windows.h>
+
+1563037331 source:f:\documentos f\proyectos codeblocks\the last battle final\juego.cpp
+	"Juego.h"
+
+1544396846 f:\documentos f\proyectos codeblocks\the last battle final\juego.h
+	"Jugador.h"
+	"Tablero.h"
+
+1543977023 f:\documentos f\proyectos codeblocks\the last battle final\jugador.h
+	"Tropa.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	"Knight.h"
+	<time.h>
+	<windows.h>
+	<MMSystem.h>
+
+1544397025 f:\documentos f\proyectos codeblocks\the last battle final\ninja.h
+	"Tropa.h"
+	<time.h>
+
+1544310529 f:\documentos f\proyectos codeblocks\the last battle final\samurai.h
+	"Tropa.h"
+
+1563032822 f:\documentos f\proyectos codeblocks\the last battle final\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+
+1563035775 source:f:\documentos f\proyectos codeblocks\the last battle final\jugador.cpp
+	"Jugador.h"
+
+1543617432 source:f:\documentos f\proyectos codeblocks\the last battle final\main.cpp
+	<iostream>
+	"Juego.h"
+
+1563035610 source:f:\documentos f\proyectos codeblocks\the last battle final\ninja.cpp
+	"Ninja.h"
+
+1544397130 source:f:\documentos f\proyectos codeblocks\the last battle final\samurai.cpp
+	"Samurai.h"
+
+1563037131 source:f:\documentos f\proyectos codeblocks\the last battle final\tablero.cpp
+	"Tablero.h"
+
+1544220428 source:f:\documentos f\proyectos codeblocks\the last battle final\tropa.cpp
+	"Tropa.h"
+
+1544396771 source:c:\users\darío\desktop\the last battle final\arquero.cpp
+	"Arquero.h"
+
+1544397013 c:\users\darío\desktop\the last battle final\arquero.h
+	"Tropa.h"
+	<time.h>
+
+1544310529 c:\users\darío\desktop\the last battle final\tropa.h
+	"Casillero.h"
+	"ListaSE.h"
+
+1543777004 c:\users\darío\desktop\the last battle final\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175068 c:\users\darío\desktop\the last battle final\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\darío\desktop\the last battle final\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\darío\desktop\the last battle final\nodos.h
+
+1543775266 source:c:\users\darío\desktop\the last battle final\casillero.cpp
+	"Casillero.h"
+
+1544310609 source:c:\users\darío\desktop\the last battle final\contendiente.cpp
+	"Contendiente.h"
+
+1544310529 c:\users\darío\desktop\the last battle final\contendiente.h
+	"Tropa.h"
+
+1544400690 source:c:\users\darío\desktop\the last battle final\enano.cpp
+	"Enano.h"
+
+1544400720 c:\users\darío\desktop\the last battle final\enano.h
+	"Tropa.h"
+	<windows.h>
+
+1544398100 source:c:\users\darío\desktop\the last battle final\juego.cpp
+	"Juego.h"
+
+1544396846 c:\users\darío\desktop\the last battle final\juego.h
+	"Jugador.h"
+	"Tablero.h"
+
+1543977023 c:\users\darío\desktop\the last battle final\jugador.h
+	"Tropa.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	"Knight.h"
+	<time.h>
+	<windows.h>
+	<MMSystem.h>
+
+1544397025 c:\users\darío\desktop\the last battle final\ninja.h
+	"Tropa.h"
+	<time.h>
+
+1544310529 c:\users\darío\desktop\the last battle final\samurai.h
+	"Tropa.h"
+
+1544221804 c:\users\darío\desktop\the last battle final\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+
+1543617432 source:c:\users\darío\desktop\the last battle final\main.cpp
+	<iostream>
+	"Juego.h"
+
+1544398056 source:c:\users\darío\desktop\the last battle final\ninja.cpp
+	"Ninja.h"
+
+1544397130 source:c:\users\darío\desktop\the last battle final\samurai.cpp
+	"Samurai.h"
+
+1544399993 source:c:\users\darío\desktop\the last battle final\tablero.cpp
+	"Tablero.h"
+
+1544220428 source:c:\users\darío\desktop\the last battle final\tropa.cpp
+	"Tropa.h"
+
+1544398033 source:c:\users\darío\desktop\the last battle final\jugador.cpp
+	"Jugador.h"
+
+1543636642 source:c:\users\dario\documents\codeblocks\the last battle 31 final\arquero.cpp
+	"Arquero.h"
+
+1543601538 c:\users\dario\documents\codeblocks\the last battle 31 final\arquero.h
+	"Tropa.h"
+
+1543670994 c:\users\dario\documents\codeblocks\the last battle 31 final\tropa.h
+	"Casillero.h"
+	"ListaSE.h"
+
+1543617368 c:\users\dario\documents\codeblocks\the last battle 31 final\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175068 c:\users\dario\documents\codeblocks\the last battle 31 final\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\documents\codeblocks\the last battle 31 final\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\documents\codeblocks\the last battle 31 final\nodos.h
+
+1543291216 source:c:\users\dario\documents\codeblocks\the last battle 31 final\casillero.cpp
+	"Casillero.h"
+
+1543615094 source:c:\users\dario\documents\codeblocks\the last battle 31 final\contendiente.cpp
+	"Contendiente.h"
+
+1543695073 c:\users\dario\documents\codeblocks\the last battle 31 final\contendiente.h
+	"Tropa.h"
+
+1543616838 source:c:\users\dario\documents\codeblocks\the last battle 31 final\enano.cpp
+	"Enano.h"
+
+1543695073 c:\users\dario\documents\codeblocks\the last battle 31 final\enano.h
+	"Tropa.h"
+
+1543679556 source:c:\users\dario\documents\codeblocks\the last battle 31 final\jugador.cpp
+	"Jugador.h"
+
+1543679670 c:\users\dario\documents\codeblocks\the last battle 31 final\jugador.h
+	"Tropa.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	<time.h>
+	<windows.h>
+
+1543545846 c:\users\dario\documents\codeblocks\the last battle 31 final\ninja.h
+	"Tropa.h"
+
+1543695073 c:\users\dario\documents\codeblocks\the last battle 31 final\samurai.h
+	"Tropa.h"
+
+1543617432 source:c:\users\dario\documents\codeblocks\the last battle 31 final\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543679486 c:\users\dario\documents\codeblocks\the last battle 31 final\juego.h
+	"Jugador.h"
+	"Tablero.h"
+
+1543669856 c:\users\dario\documents\codeblocks\the last battle 31 final\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+
+1543615118 source:c:\users\dario\documents\codeblocks\the last battle 31 final\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543615118 source:c:\users\dario\documents\codeblocks\the last battle 31 final\samurai.cpp
+	"Samurai.h"
+
+1543701935 source:c:\users\dario\documents\codeblocks\the last battle 31 final\tablero.cpp
+	"Tablero.h"
+
+1543670994 source:c:\users\dario\documents\codeblocks\the last battle 31 final\tropa.cpp
+	"Tropa.h"
+
+1543700286 source:c:\users\dario\documents\codeblocks\the last battle 31 final\juego.cpp
+	"Juego.h"
+
+1543777486 source:c:\users\dario\onedrive\desktop\the last battle 32 final\arquero.cpp
+	"Arquero.h"
+
+1543601538 c:\users\dario\onedrive\desktop\the last battle 32 final\arquero.h
+	"Tropa.h"
+
+1543778017 c:\users\dario\onedrive\desktop\the last battle 32 final\tropa.h
+	"Casillero.h"
+	"ListaSE.h"
+
+1543777003 c:\users\dario\onedrive\desktop\the last battle 32 final\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175068 c:\users\dario\onedrive\desktop\the last battle 32 final\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\onedrive\desktop\the last battle 32 final\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\onedrive\desktop\the last battle 32 final\nodos.h
+
+1543775265 source:c:\users\dario\onedrive\desktop\the last battle 32 final\casillero.cpp
+	"Casillero.h"
+
+1543775379 source:c:\users\dario\onedrive\desktop\the last battle 32 final\contendiente.cpp
+	"Contendiente.h"
+
+1543695073 c:\users\dario\onedrive\desktop\the last battle 32 final\contendiente.h
+	"Tropa.h"
+
+1543775367 source:c:\users\dario\onedrive\desktop\the last battle 32 final\enano.cpp
+	"Enano.h"
+
+1543695073 c:\users\dario\onedrive\desktop\the last battle 32 final\enano.h
+	"Tropa.h"
+
+1543617432 source:c:\users\dario\onedrive\desktop\the last battle 32 final\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543777046 c:\users\dario\onedrive\desktop\the last battle 32 final\juego.h
+	"Jugador.h"
+	"Tablero.h"
+
+1543777079 c:\users\dario\onedrive\desktop\the last battle 32 final\jugador.h
+	"Tropa.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	"Knight.h"
+	<time.h>
+	<windows.h>
+
+1543545846 c:\users\dario\onedrive\desktop\the last battle 32 final\ninja.h
+	"Tropa.h"
+
+1543695073 c:\users\dario\onedrive\desktop\the last battle 32 final\samurai.h
+	"Tropa.h"
+
+1543769359 c:\users\dario\onedrive\desktop\the last battle 32 final\knight.h
+	"Tropa.h"
+
+1543777148 c:\users\dario\onedrive\desktop\the last battle 32 final\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+
+1543776273 source:c:\users\dario\onedrive\desktop\the last battle 32 final\ninja.cpp
+	"Ninja.h"
+	<time.h>
+	<windows.h>
+
+1543776302 source:c:\users\dario\onedrive\desktop\the last battle 32 final\samurai.cpp
+	"Samurai.h"
+
+1543778157 source:c:\users\dario\onedrive\desktop\the last battle 32 final\tablero.cpp
+	"Tablero.h"
+
+1543778017 source:c:\users\dario\onedrive\desktop\the last battle 32 final\tropa.cpp
+	"Tropa.h"
+
+1543779186 source:c:\users\dario\onedrive\desktop\the last battle 32 final\juego.cpp
+	"Juego.h"
+
+1543776150 source:c:\users\dario\onedrive\desktop\the last battle 32 final\jugador.cpp
+	"Jugador.h"
+
+1543774302 source:c:\users\dario\onedrive\desktop\the last battle 32 final\knight.cpp
+	"Knight.h"
+
+1543851192 source:c:\users\dario\onedrive\desktop\the last battle 34\arquero.cpp
+	"Arquero.h"
+
+1543851173 c:\users\dario\onedrive\desktop\the last battle 34\arquero.h
+	"Tropa.h"
+
+1543854943 c:\users\dario\onedrive\desktop\the last battle 34\tropa.h
+	"Casillero.h"
+	"ListaSE.h"
+
+1543777003 c:\users\dario\onedrive\desktop\the last battle 34\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175068 c:\users\dario\onedrive\desktop\the last battle 34\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\onedrive\desktop\the last battle 34\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\onedrive\desktop\the last battle 34\nodos.h
+
+1543775265 source:c:\users\dario\onedrive\desktop\the last battle 34\casillero.cpp
+	"Casillero.h"
+
+1543851214 source:c:\users\dario\onedrive\desktop\the last battle 34\contendiente.cpp
+	"Contendiente.h"
+
+1543851173 c:\users\dario\onedrive\desktop\the last battle 34\contendiente.h
+	"Tropa.h"
+
+1543851247 source:c:\users\dario\onedrive\desktop\the last battle 34\enano.cpp
+	"Enano.h"
+
+1543851173 c:\users\dario\onedrive\desktop\the last battle 34\enano.h
+	"Tropa.h"
+
+1543776150 source:c:\users\dario\onedrive\desktop\the last battle 34\jugador.cpp
+	"Jugador.h"
+
+1543844109 c:\users\dario\onedrive\desktop\the last battle 34\jugador.h
+	"Tropa.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	"Knight.h"
+	<time.h>
+	<windows.h>
+
+1543851173 c:\users\dario\onedrive\desktop\the last battle 34\ninja.h
+	"Tropa.h"
+
+1543851173 c:\users\dario\onedrive\desktop\the last battle 34\samurai.h
+	"Tropa.h"
+
+1543851173 c:\users\dario\onedrive\desktop\the last battle 34\knight.h
+	"Tropa.h"
+
+1543851247 source:c:\users\dario\onedrive\desktop\the last battle 34\knight.cpp
+	"Knight.h"
+
+1543617432 source:c:\users\dario\onedrive\desktop\the last battle 34\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543777046 c:\users\dario\onedrive\desktop\the last battle 34\juego.h
+	"Jugador.h"
+	"Tablero.h"
+
+1543858892 c:\users\dario\onedrive\desktop\the last battle 34\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+
+1543861233 source:c:\users\dario\onedrive\desktop\the last battle 34\ninja.cpp
+	"Ninja.h"
+
+1543851281 source:c:\users\dario\onedrive\desktop\the last battle 34\samurai.cpp
+	"Samurai.h"
+
+1543858757 source:c:\users\dario\onedrive\desktop\the last battle 34\tablero.cpp
+	"Tablero.h"
+
+1543858958 source:c:\users\dario\onedrive\desktop\the last battle 34\tropa.cpp
+	"Tropa.h"
+
+1543850651 source:c:\users\dario\onedrive\desktop\the last battle 34\juego.cpp
+	"Juego.h"
+
+1543851192 source:c:\users\dario\documents\codeblocks\the last battle 34 final final final\arquero.cpp
+	"Arquero.h"
+
+1543851173 c:\users\dario\documents\codeblocks\the last battle 34 final final final\arquero.h
+	"Tropa.h"
+
+1543854943 c:\users\dario\documents\codeblocks\the last battle 34 final final final\tropa.h
+	"Casillero.h"
+	"ListaSE.h"
+
+1543777003 c:\users\dario\documents\codeblocks\the last battle 34 final final final\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175068 c:\users\dario\documents\codeblocks\the last battle 34 final final final\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\documents\codeblocks\the last battle 34 final final final\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\documents\codeblocks\the last battle 34 final final final\nodos.h
+
+1543775265 source:c:\users\dario\documents\codeblocks\the last battle 34 final final final\casillero.cpp
+	"Casillero.h"
+
+1543851214 source:c:\users\dario\documents\codeblocks\the last battle 34 final final final\contendiente.cpp
+	"Contendiente.h"
+
+1543851173 c:\users\dario\documents\codeblocks\the last battle 34 final final final\contendiente.h
+	"Tropa.h"
+
+1543851247 source:c:\users\dario\documents\codeblocks\the last battle 34 final final final\enano.cpp
+	"Enano.h"
+
+1543851173 c:\users\dario\documents\codeblocks\the last battle 34 final final final\enano.h
+	"Tropa.h"
+
+1543877049 source:c:\users\dario\documents\codeblocks\the last battle 34 final final final\juego.cpp
+	"Juego.h"
+
+1543863927 c:\users\dario\documents\codeblocks\the last battle 34 final final final\juego.h
+	"Jugador.h"
+	"Tablero.h"
+
+1543863927 c:\users\dario\documents\codeblocks\the last battle 34 final final final\jugador.h
+	"Tropa.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	"Knight.h"
+	<time.h>
+	<windows.h>
+
+1543851173 c:\users\dario\documents\codeblocks\the last battle 34 final final final\ninja.h
+	"Tropa.h"
+
+1543851173 c:\users\dario\documents\codeblocks\the last battle 34 final final final\samurai.h
+	"Tropa.h"
+
+1543851173 c:\users\dario\documents\codeblocks\the last battle 34 final final final\knight.h
+	"Tropa.h"
+
+1543858892 c:\users\dario\documents\codeblocks\the last battle 34 final final final\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+
+1543776150 source:c:\users\dario\documents\codeblocks\the last battle 34 final final final\jugador.cpp
+	"Jugador.h"
+
+1543851247 source:c:\users\dario\documents\codeblocks\the last battle 34 final final final\knight.cpp
+	"Knight.h"
+
+1543617432 source:c:\users\dario\documents\codeblocks\the last battle 34 final final final\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543851281 source:c:\users\dario\documents\codeblocks\the last battle 34 final final final\samurai.cpp
+	"Samurai.h"
+
+1543887861 source:c:\users\dario\documents\codeblocks\the last battle 34 final final final\tablero.cpp
+	"Tablero.h"
+
+1543858958 source:c:\users\dario\documents\codeblocks\the last battle 34 final final final\tropa.cpp
+	"Tropa.h"
+
+1543861874 source:c:\users\dario\documents\codeblocks\the last battle 34 final final final\ninja.cpp
+	"Ninja.h"
+
+1544310529 f:\documentos f\proyectos codeblocks\the last battle final\knight.h
+	"Tropa.h"
+
+1544310609 source:f:\documentos f\proyectos codeblocks\the last battle final\knight.cpp
+	"Knight.h"
+
+1543851194 source:c:\users\dario\documents\codeblocks\the last battle 35 final\arquero.cpp
+	"Arquero.h"
+
+1543851174 c:\users\dario\documents\codeblocks\the last battle 35 final\arquero.h
+	"Tropa.h"
+
+1543854944 c:\users\dario\documents\codeblocks\the last battle 35 final\tropa.h
+	"Casillero.h"
+	"ListaSE.h"
+
+1543777004 c:\users\dario\documents\codeblocks\the last battle 35 final\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175068 c:\users\dario\documents\codeblocks\the last battle 35 final\listase.h
+	"Cursor.h"
+
+1539172426 c:\users\dario\documents\codeblocks\the last battle 35 final\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 c:\users\dario\documents\codeblocks\the last battle 35 final\nodos.h
+
+1543775266 source:c:\users\dario\documents\codeblocks\the last battle 35 final\casillero.cpp
+	"Casillero.h"
+
+1543851216 source:c:\users\dario\documents\codeblocks\the last battle 35 final\contendiente.cpp
+	"Contendiente.h"
+
+1543851174 c:\users\dario\documents\codeblocks\the last battle 35 final\contendiente.h
+	"Tropa.h"
+
+1543851248 source:c:\users\dario\documents\codeblocks\the last battle 35 final\enano.cpp
+	"Enano.h"
+
+1543851174 c:\users\dario\documents\codeblocks\the last battle 35 final\enano.h
+	"Tropa.h"
+
+1543776152 source:c:\users\dario\documents\codeblocks\the last battle 35 final\jugador.cpp
+	"Jugador.h"
+
+1543863928 c:\users\dario\documents\codeblocks\the last battle 35 final\jugador.h
+	"Tropa.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	"Knight.h"
+	<time.h>
+	<windows.h>
+
+1543851174 c:\users\dario\documents\codeblocks\the last battle 35 final\ninja.h
+	"Tropa.h"
+
+1543851174 c:\users\dario\documents\codeblocks\the last battle 35 final\samurai.h
+	"Tropa.h"
+
+1543851174 c:\users\dario\documents\codeblocks\the last battle 35 final\knight.h
+	"Tropa.h"
+
+1543851248 source:c:\users\dario\documents\codeblocks\the last battle 35 final\knight.cpp
+	"Knight.h"
+
+1543617432 source:c:\users\dario\documents\codeblocks\the last battle 35 final\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543863928 c:\users\dario\documents\codeblocks\the last battle 35 final\juego.h
+	"Jugador.h"
+	"Tablero.h"
+
+1543858894 c:\users\dario\documents\codeblocks\the last battle 35 final\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+
+1543861876 source:c:\users\dario\documents\codeblocks\the last battle 35 final\ninja.cpp
+	"Ninja.h"
+
+1543851282 source:c:\users\dario\documents\codeblocks\the last battle 35 final\samurai.cpp
+	"Samurai.h"
+
+1543858960 source:c:\users\dario\documents\codeblocks\the last battle 35 final\tropa.cpp
+	"Tropa.h"
+
+1543931917 source:c:\users\dario\documents\codeblocks\the last battle 35 final\juego.cpp
+	"Juego.h"
+
+1544310529 c:\users\darío\desktop\the last battle final\knight.h
+	"Tropa.h"
+
+1544310609 source:c:\users\darío\desktop\the last battle final\knight.cpp
+	"Knight.h"
+
+1543851194 source:f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\arquero.cpp
+	"Arquero.h"
+
+1543851174 f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\arquero.h
+	"Tropa.h"
+
+1543854944 f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\tropa.h
+	"Casillero.h"
+	"ListaSE.h"
+
+1543777004 f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\casillero.h
+	<iostream>
+	"Tropa.h"
+
+1543175068 f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\listase.h
+	"Cursor.h"
+
+1539172426 f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1505928194 f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\nodos.h
+
+1543775266 source:f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\casillero.cpp
+	"Casillero.h"
+
+1543851216 source:f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\contendiente.cpp
+	"Contendiente.h"
+
+1543851174 f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\contendiente.h
+	"Tropa.h"
+
+1543851248 source:f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\enano.cpp
+	"Enano.h"
+
+1543851174 f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\enano.h
+	"Tropa.h"
+
+1544024948 source:f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\juego.cpp
+	"Juego.h"
+
+1543863928 f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\juego.h
+	"Jugador.h"
+	"Tablero.h"
+
+1543977023 f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\jugador.h
+	"Tropa.h"
+	"Arquero.h"
+	"Ninja.h"
+	"Contendiente.h"
+	"Enano.h"
+	"Samurai.h"
+	"Knight.h"
+	<time.h>
+	<windows.h>
+	<MMSystem.h>
+
+1543851174 f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\ninja.h
+	"Tropa.h"
+
+1543851174 f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\samurai.h
+	"Tropa.h"
+
+1543851174 f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\knight.h
+	"Tropa.h"
+
+1543858894 f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\tablero.h
+	"Jugador.h"
+	"Casillero.h"
+
+1543976954 source:f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\jugador.cpp
+	"Jugador.h"
+
+1543851248 source:f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\knight.cpp
+	"Knight.h"
+
+1543617432 source:f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\main.cpp
+	<iostream>
+	"Juego.h"
+
+1543861876 source:f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\ninja.cpp
+	"Ninja.h"
+
+1543851282 source:f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\samurai.cpp
+	"Samurai.h"
+
+1544025245 source:f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\tablero.cpp
+	"Tablero.h"
+
+1543858960 source:f:\documentos f\facultad\2do cuatrimestre\prog ii\final the last battle\the last battle final\tropa.cpp
+	"Tropa.h"
+
